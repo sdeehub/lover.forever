@@ -40,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/lover.forever" # the subpath of your site, e.g. /blog
-url: "https://sdeehub.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sdeehub.github.io/lover.forever" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -55,7 +55,7 @@ permalink: /:title/
 collections:
   authors:
     output: true
-paginate_path: "/lover.forever/page/:num/"
+paginate_path: "/page/:num/"
 show_get_theme_btn: true
 use_logo: false
 
