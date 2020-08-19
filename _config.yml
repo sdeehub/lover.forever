@@ -103,4 +103,4 @@ exclude: [
 version: v3.1.0
 
 # Paginate
-paginate: 8
+paginate: 3
