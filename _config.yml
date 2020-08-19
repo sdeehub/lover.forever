@@ -16,10 +16,10 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+# - title: Contact
+#   url: /contact
+# - title: Feed
+#   url: /feed.xml
 
 
 # Social Media Settings
@@ -40,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/lover.forever" # the subpath of your site, e.g. /blog
+url: "https://sdeehub.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
