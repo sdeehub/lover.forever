@@ -99,7 +99,7 @@
       margin-left: rem(3px);
       margin-right: rem(3px);
     }
-  }  
+  }
 
   h1.post-title {
     line-height: 1.2;
@@ -267,6 +267,7 @@
 
     p {
       font-size: rem(17px);
+      font-style: italic;
       color: rgba(0, 0, 0, 0.6);
       margin: 0;
       @include media(">=sm") {
