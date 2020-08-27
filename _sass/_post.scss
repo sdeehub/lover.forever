@@ -82,6 +82,25 @@
     }
   }
 
+  svg {
+    @include size(28, 28);
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: rem(10px);
+
+    @include media(">=sm") {
+      margin-right: rem(20px);
+    }
+
+    &.love {
+      @include size(20, 20);
+      fill: $themeColor;
+      margin-top: rem(-2px);
+      margin-left: rem(3px);
+      margin-right: rem(3px);
+    }
+  }  
+
   h1.post-title {
     line-height: 1.2;
     margin: rem(5px) auto rem(10px);
