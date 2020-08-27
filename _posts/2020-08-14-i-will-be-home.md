@@ -27,6 +27,4 @@ author: thiagorossener
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<footer class="endpost">
-การเดินทาง การรอคอย การกลับบ้าน และเวลาทั้งหมดที่เหลืออยู่ ดูจะมีความหมายอีกมากมาย <svg class="love"><use xlink:href="#icon-heart"></use></svg> ก็เพราะคุณ
-</footer>
+การเดินทาง การรอคอย การกลับบ้าน และเวลาทั้งหมดที่เหลืออยู่ ดูจะมีความหมายอีกมากมาย <footer><svg class="love"><use xlink:href="#icon-heart"></use></svg></footer> ก็เพราะคุณ
