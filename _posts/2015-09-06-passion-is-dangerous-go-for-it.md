@@ -6,6 +6,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://img.youtube.com/vi/XvHgs4mBz9w/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/XvHgs4mBz9w/maxresdefault.jpg
+youtube: XvHgs4mBz9w
 category: work
 tags:
   - work
