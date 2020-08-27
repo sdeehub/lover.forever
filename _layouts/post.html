@@ -22,7 +22,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.youtube and paginator.activated == nil %}
-                    <img src="{{ "https://img.youtube.com/vi/" | append: page.youtube | append: "/maxresdefault.jpg" }}" alt="Featured image" class="post-cover">
+                    <img src="{{ page.hero_image }}" alt="Featured image" class="post-cover">
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
