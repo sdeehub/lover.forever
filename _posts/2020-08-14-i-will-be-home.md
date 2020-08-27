@@ -2,8 +2,8 @@
 date: 2020-08-14 T17:25:14+07:00
 layout: post
 title: "ก่อนถึงบ้าน"
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: "การเดินทาง การรอคอย การกลับบ้าน ... เวลาที่เหลืออยู่มีความหมายอะไรสักอย่าง"
+subtitle: "การเดินทาง การรอคอย การกลับบ้าน ... เวลาที่เหลืออยู่มีความหมายอะไรสักอย่าง"
+hero_image: https://source.unsplash.com/orYix9zFUZo
 image: https://img.youtube.com/vi/XvHgs4mBz9w/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/XvHgs4mBz9w/maxresdefault.jpg
 youtube: sG4MXjqx2pA
