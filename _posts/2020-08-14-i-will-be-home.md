@@ -29,4 +29,6 @@ author: thiagorossener
 </div>
 <br />
 
+<footer>
 การเดินทาง การรอคอย การกลับบ้าน และเวลาทั้งหมดที่เหลืออยู่ ดูจะมีความหมายอีกมากมาย <svg class="love"><use xlink:href="#icon-heart"></use></svg> ก็เพราะคุณ
+</footer>
