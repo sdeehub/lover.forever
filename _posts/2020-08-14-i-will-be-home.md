@@ -8,11 +8,9 @@ image: https://img.youtube.com/vi/sG4MXjqx2pA/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/sG4MXjqx2pA/maxresdefault.jpg
 youtube: sG4MXjqx2pA
 category:
-  - pop
   - rock
 tags:
   - อัสนี-วสันต์
-  - อัศนี พลจันทร
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
