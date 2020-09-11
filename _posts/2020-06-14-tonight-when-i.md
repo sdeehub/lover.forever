@@ -1,12 +1,18 @@
 ---
+date: 2020-06-14 T23:13:14+07:00
 layout: post
 title: "คืนนี้"
-date: 2020-06-14 T23:13:14+07:00
+subtitle: "คืนนี้อยากให้ฝนตก อยากได้ยินเสียงฝน แล้วก็อยากให้ใครบางคนคิดถึงเรา จะได้มั๊ย?"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: 4hi6oj5Ws4s
+category:
+  - rock
 tags:
-  - คิดถึงกันทั้งคืน
-description: "คืนนี้อยากให้ฝนตก อยากได้ยินเสียงฝน แล้วก็อยากให้ใครบางคนคิดถึงเรา จะได้มั๊ย?"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 คืนนี้ฝนทำท่าจะตกนะ ถ้าฝนตกคงจะคิดถึงมากกว่านี้ ก็ไม่รู้สิ ไม่รู้ว่าเพราะอะไร แต่ก็อยากให้ฝนตก จะได้เย็นหน่อย หรือบางทีเสียงฝนก็ได้ช่วยให้ไม่ต้องเงียบแบบนี้ บางทีก็ไม่อยากคิด แต่หยุดไม่ได้ บางทีก็อยากหลับไปกับเสียงฝน บางทีก็อยากแค่ให้ใครสักคนโทรหา โทรมาถามว่าฝนตกมั๊ย โทรมาเล่าว่าที่นั่นน้ำท่วมก็ได้ ... อยากฟัง
 
 อยากฟังทั้งเรื่อง และเสียง เป็นยังไง สบายดีมั๊ย ... อยากฟัง บางทีก็ไม่อยากคิดถึงแล้วนะ นานไปแล้วล่ะ ว่ามั๊ย
@@ -19,12 +25,11 @@ comments: true
 
 ถ้าอยู่ข้างนอก เวลาฝนตกจะเปียกแค่ไหน บางทีก็อยากหาที่หลบฝนด้วยกัน ว่ามั๊ย ขับรถลุยฝนก็ได้ ไม่ต้องไปไกล แค่วนรอบหอนาฬิกา วนไปเรื่อย ๆ ก็ได้
 
-ถ้าฝนตก จะโทรมาหน่อยได้มั๊ย? ก็แค่อยากคิดถึงแบบนี้ เวลาที่ฝนตกมาน่ะ ไม่มีอะไร
+ถ้าฝนตก จะโทรมาหน่อยได้มั๊ย? ก็แค่อยากคิดถึงแบบนี้ เวลาที่ฝนตกมาน่ะ ไม่มีอะไร\
+`ขอบคุณ:` *เพลงคนเกลียดคน ... อย่า(ก)ออกไป - ธเนศ วรากุลนุเคราะห์*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/4hi6oj5Ws4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-ก็แค่จะได้คิดถึงแบบนี้ <i class="fa fa-heart" style="color:#C38FD6"></i> ทุกครั้งที่ฝนมา
+> ก็แค่จะได้คิดถึงแบบนี้ <svg class="love"><use xlink:href="#icon-heart"></use></svg> ทุกครั้งที่ฝนมา
