@@ -1,12 +1,18 @@
 ---
+date: 2019-09-26 21:19:48 +0700
 layout: post
 title: "ไฟส้ม กับ เพลง Jazz"
-date: 2019-09-26 21:19:48 +0700
+subtitle: "ก่อนนอน ทำอะไร? ... ก่อนนอน ฟังเพลงอะไร? ... ก่อนนอน คิดถึงกันบ้างมั๊ย? แล้วยิ่งถ้านั่งอยู่ในร้านไฟส้ม ๆ ลมพัดเพลง Jazz มาเบา ๆ ข้าง ๆ หู"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: tOmpj6urvbE
+category:
+  - rock
 tags:
-  - ดูหนังฟังเพลง
-description: "ก่อนนอน ทำอะไร? ... ก่อนนอน ฟังเพลงอะไร? ... ก่อนนอน คิดถึงกันบ้างมั๊ย? แล้วยิ่งถ้านั่งอยู่ในร้านไฟส้ม ๆ ลมพัดเพลง Jazz มาเบา ๆ ข้าง ๆ หู"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 อืม ... คืนนี้ล่ะ? คิดถึงกันบ้างมั๊ย
 
 ตอนนี้ทำอะไรอยู่? คำถามเดิม ๆ เพราะยังไม่มีเวลาที่อยากจะได้ยินคำตอบนี้จริง ๆ เพราะยังอยากที่จะอยู่เงียบ ๆ คนเดียว เพราะบางทีก็แบบนี้นั่นล่ะที่ทำให้ ไฟส้ม ๆ และ เพลง Jazz กลายเป็นอะไรบางอย่าง ที่ ... พิเศษ และ แตกต่างออกไป
@@ -19,12 +25,11 @@ comments: true
 
 คิดถึงนะ ... แล้วก็จะลองดูด้วยว่า ถ้า google "ตอนนี้ โก้ อยู่ที่ไหน แล้วยังคิดถึงกันมั๊ย" แล้วคำตอบจะออกมาเป็นยังไง?
 
-อีกอย่าง ... ที่ นี่หมดฝนแล้ว จำได้มั๊ย!
+อีกอย่าง ... ที่ นี่หมดฝนแล้ว จำได้มั๊ย!\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/tOmpj6urvbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-คิดถึงนะ <i class="fa fa-heart" style="color:#C38FD6"></i> (คิดถึงมากจริงๆ) แล้วก็ยิ่งมากขึ้นทุก ๆ วัน
+> คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> (คิดถึงมากจริง ๆ) แล้วก็ยิ่งมากขึ้นทุก ๆ วัน

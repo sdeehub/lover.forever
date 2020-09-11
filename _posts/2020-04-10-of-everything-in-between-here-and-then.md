@@ -1,12 +1,18 @@
 ---
+date: 2020-04-10 T21:30:11+07:00
 layout: post
 title: "เก็บ"
-date: 2020-04-10 T21:30:11+07:00
+subtitle: "ใครบอกนะว่า อะไรที่ไม่ใช่ ก็ไม่ต้องเก็บ อะไรที่ไม่ใช้ ก็ไม่ต้องเอามา"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: 7voSN82FGF0
+category:
+  - rock
 tags:
-  - คิดถึงกันซะแล้ว
-description: "ใครบอกนะว่า อะไรที่ไม่ใช่ ก็ไม่ต้องเก็บ อะไรที่ไม่ใช้ ก็ไม่ต้องเอามา"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 เก็บตัว เก็บหัวใจ ไม่ได้เก็บไว้รอคอยใคร ... ก็แค่เก็บ
 
 เก็บดอกไม้ เก็บกระดาษ เก็บวัน-เวลา ไม่ได้จะเก็บไว้ทำอะไร ... ก็แค่เก็บ
@@ -49,12 +55,11 @@ comments: true
 
 เงียบ สงบ เยือกเย็น และ
 
-หายใจ ... หายไป
+หายใจ ... หายไป\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/7voSN82FGF0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-ให้คนที่เก็บ <i class="fa fa-heart" style="color:#C38FD6"></i> เก็บไว้คนเดียว
+> ให้คนที่เก็บ <svg class="love"><use xlink:href="#icon-heart"></use></svg> เก็บไว้คนเดียว

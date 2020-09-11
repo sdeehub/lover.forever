@@ -1,12 +1,18 @@
----
+--
+date: 2019-07-09 06:13:24 +0700
 layout: post
 title: "วันที่เท่าไหร่"
-date: 2019-07-09 06:13:24 +0700
+subtitle: "เมื่อไหร่ วันไหน ที่ไหน ยังไง - จะตอบอะไรก็ได้ แค่ขอให้คุณกลับมา"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: lU9p1WRfA9w
+category:
+  - rock
 tags:
-  - ความเศร้าที่สวยงาม
-description: "เมื่อไหร่ วันไหน ที่ไหน ยังไง - จะตอบอะไรก็ได้ แค่ขอให้คุณกลับมา"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 อืม ... เมื่อคืนนี้ฝันถึงกัน - อืม ... เมื่อวานนี้นั่งร้องไห้
 
 เห็นแม่บอกว่าคุณแวะมา เอาของมาฝากไว้ให้ เราได้แต่มองดูของ ... เราได้แต่คิดถึงเจ้าของ - อืม ... แม่บอกว่าคุณนั่งคุยอยู่นาน เหมือนไม่ได้รีบร้อนจะไปไหน แต่ก็แปลกใจคิดว่าตอนเย็นน่าจะแวะมาเจอเราอีกทีเหมือนทุกวัน
@@ -17,12 +23,11 @@ comments: true
 
 แม่บอกคุณเดินเล่นในสวนอยู่นาน อยากรู้ว่าต้นไม้จะคิดถึงคุณมั๊ย? แล้วใครจะเอาถั่วมาเลี้ยงกระรอกเหรอ? บางครั้งสมาชิกใหม่ก็มาพร้อมกับความทรงจำอะไร ๆ เยอะมากมาย - ยังจำได้ตอนที่เราเจอกันครั้งแรกนะ
 
-แต่ตอนนี้แค่อยากรู้ว่าแล้วเมื่อไหร่เราจะได้เจอกันอีก ... ก็แค่นั้น
+แต่ตอนนี้แค่อยากรู้ว่าแล้วเมื่อไหร่เราจะได้เจอกันอีก ... ก็แค่นั้น\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/lU9p1WRfA9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-คิดถึงนะ <i class="fa fa-heart" style="color:#C38FD6"></i> คิดถึงมากจริงๆ
+> คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> คิดถึงมากจริง ๆ

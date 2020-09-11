@@ -1,12 +1,18 @@
 ---
+date: 2019-10-01 21:53:28 +0700
 layout: post
 title: "กาลครั้งหนึ่ง"
-date: 2019-10-01 21:53:28 +0700
+subtitle: "กาลครั้งหนึ่ง นานแค่ไหนมาแล้ว ... นั่นสิ แล้วนานแค่ไหนกันแล้วล่ะจริงๆ"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: IatZP3NlUnY
+category:
+  - rock
 tags:
-  - ดูหนังฟังเพลง
-description: "กาลครั้งหนึ่ง นานแค่ไหนมาแล้ว ... นั่นสิ แล้วนานแค่ไหนกันแล้วล่ะจริงๆ"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 ประโยคอะไร? หรือว่านี่คือประโยคบอกว่า คิดถึง ... แต่น่าจะเพราะช่วงนี้ หลายวัน หลายเดือน หลายปี นานมานี้วุ่นมาก ยุ่งมาก
 
 หลายเรื่อง หลายอย่าง ทำให้ ความคิดถึง ค่อย ๆ จางหายไป ... ไม่ใช่ว่าไม่คิดถึง แต่เพราะคิดแล้วก็ยังไปไม่ถึง แต่เพราะคิดแล้วก็ติดแต่งาน แล้วพอคิดก็ต้องคิดแต่งาน งาน งาน
@@ -17,12 +23,11 @@ comments: true
 
 ทุกวัน ทุกคน ทุกที่ ทุกเวลา ... 8 ถึง 5 มีแต่ต้องหาคำตอบ มีแต่ต้องรับผิดชอบ มีแต่หน้าจอเล็ก หน้าจอใหญ่ หน้าจอดู code หน้าจอแก้ bug ไป หน้าจอย้ายการ์ด / push branch / pull request หน้าจอ Trello กับ Stack Overflow ซะเป็นส่วนใหญ่
 
-นานมาแล้ว เหมือนกับ กาลครั้งหนึ่ง คือ เราก็ไม่รู้ว่านั่นคือ นานมาแล้วแค่ไหน รู้แค่ว่า คิดถึง ตอนนี้ได้จางหายไป อย่างที่บอกไว้ ... หาย แล้วก็หายไป
+นานมาแล้ว เหมือนกับ กาลครั้งหนึ่ง คือ เราก็ไม่รู้ว่านั่นคือ นานมาแล้วแค่ไหน รู้แค่ว่า คิดถึง ตอนนี้ได้จางหายไป อย่างที่บอกไว้ ... หาย แล้วก็หายไป\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/IatZP3NlUnY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-กาลครั้งหนึ่ง <i class="fa fa-heart" style="color:#C38FD6"></i> (คิดถึงมากจริงๆ) นานมาแล้ว
+> กาลครั้งหนึ่ง <svg class="love"><use xlink:href="#icon-heart"></use></svg> (คิดถึงมากจริง ๆ) นานมาแล้ว

@@ -44,7 +44,7 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.youtube %}
-                                        <img src="{{ "https://img.youtube.com/vi/" | append: page.youtube | append: "/maxresdefault.jpg" }}">
+                                        <img src="{{ "https://img.youtube.com/vi/" | append: post.youtube | append: "/maxresdefault.jpg" }}">
                                     {% else %}
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}

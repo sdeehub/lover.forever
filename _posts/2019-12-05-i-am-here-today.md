@@ -1,12 +1,18 @@
 ---
+date: 2019-12-05 08:08:19 +0700
 layout: post
 title: "16c ที่นี่สูงเนิน"
-date: 2019-12-05 08:08:19 +0700
+subtitle: "เช้านี้ที่สูงเนินเป็นยังไงบ้าง? เหมือนจะได้ยินใครถามขึ้นมาแบบนี้เบา ๆ ลอยมากับลมหนาว"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: cfReVoUn4Is
+category:
+  - rock
 tags:
-  - ดูหนังฟังเพลง
-description: "เช้านี้ที่สูงเนินเป็นยังไงบ้าง? เหมือนจะได้ยินใครถามขึ้นมาแบบนี้เบา ๆ ลอยมากับลมหนาว"
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 สวัสดีเช้านี้เป็นยังไง สบายดีใช่มั๊ย? ... ไม่รู้ว่าอยากถาม หรืออยากเล่ากันแน่นะ :)
 
 นั่นสิ! สาวต๊องส์ก็แบบนี้หล่ะ ว่ามั๊ย? ไม่สิต้องบอกว่า ไม่ว่ากันนะ OK ตกลงใช่มั๊ย! เช้านี้เป็นยังไงเหรอ? ... เผลอแปปเดียว ไวนะก็ว่ามั๊ย นี่ก็เดือนสุดท้ายของปีนี้แล้ว ผ่านไปแปป ๆ มาอยู่ห้อยต่องแต่งที่ปลายปีแบบนี้ซะอย่างนั้น
@@ -23,12 +29,11 @@ comments: true
 
 สงสัยจะเย็นมากไปเลยนอนไม่ค่อยหลับเหรอ? - ก็ไม่นะ หลับสบายดีเลยหล่ะ แล้วก็แค่ตื่นเร็วขึ้นมาหน่อย สักครึ่งชม. อาจจะเพราะน่าจะตื่นเต้นมากกว่า วันนี้มีโปรแกรมให้ต้องเดินทางนิดหน่อยช่วงบ่ายหน่ะ ... ไม่ได้เที่ยวอะไรไกลหรอกนะ ขับรถสักชม.ครึ่ง ออกไปฟาร์มแค่นี้เอง ก็ไปเก็บข้อมูลมาทำ paper ไง :)
 
-อาจจะมีแอบแวะเที่ยวไปด้วยระหว่างทาง (ก็แค่อาจจะนะ 555) แต่ได้ออกไปนอก ๆ เมืองบ้างก็ถือว่าได้สนุกแล้วล่ะ ... ว่าแต่เช้านี้ได้โอวัลติน กับ Michael Buble - Always on my mind มาช่วยเพิ่มความอบอุ่นแล้วนะ ขอบคุณมาก ๆ นะ
+อาจจะมีแอบแวะเที่ยวไปด้วยระหว่างทาง (ก็แค่อาจจะนะ 555) แต่ได้ออกไปนอก ๆ เมืองบ้างก็ถือว่าได้สนุกแล้วล่ะ ... ว่าแต่เช้านี้ได้โอวัลติน กับ Michael Buble - Always on my mind มาช่วยเพิ่มความอบอุ่นแล้วนะ ขอบคุณมาก ๆ นะ\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/cfReVoUn4Is" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />
-
-หนาวแล้ว <i class="fa fa-heart" style="color:#C38FD6"></i> ดูแลตัวเองด้วยนะ
+> หนาวแล้ว <svg class="love"><use xlink:href="#icon-heart"></use></svg> ดูแลตัวเองด้วยนะ
