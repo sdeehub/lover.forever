@@ -1,12 +1,18 @@
 ---
+date: 2019-03-14 17:39:57 +0700
 layout: post
 title: "การกลับมา นั้น หมายความว่า?"
-date: 2019-03-14 17:39:57 +0700
+subtitle: "บางครั้งความหมายก็ไม่ได้มีประโยชน์หรือเปล่านะ"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: DviID8Ni7Ns
+category:
+  - rock
 tags:
-  - ดูหนังฟังเพลง
-description: บางครั้งความหมายก็ไม่ได้มีประโยชน์หรือเปล่านะ
-comments: true
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 คุณจะกลับมาเพื่อ? ถ้าการกลับมานี้หมายความว่า สักวัน ... ไม่อยากพูดคำนั้น ว่าแล้วสักวันคุณก็จะกลับไป สักวันคุณก็จะหายไป สักวันเราก็จะผ่านเรื่องนี้ไป ต่างกันแค่เพียงคุณอาจจะไม่ได้ get emotional about it?
 
 บางคนก็บอกกันว่า ถ้าเขากลับมา นั่นคือเขาจะมาอยู่ด้วยตลอดไป? ... มีใครพูดไว้แบบนี้มั๊ย แต่ว่าตอนนั้นเราจะเป็นยังไง คงไม่มีใครเคยพูดไว้ เรายังจะอยากเจอเขาอยู่ใช่มั๊ย หรือเราแค่ไม่พร้อมจะเจอคุณในตอนนี้ ตอนนั้น หรืออีกตลอดไป
@@ -17,10 +23,11 @@ comments: true
 
 >If you love someone, set them free. If they come back they’re yours; if they don’t they never were.
 
-ใช่ ... ก็แค่ถ้าเผื่อ เผื่อว่าถ้ามีบางอย่างเข้ามาและผ่านเราไป แล้วใครสักคนก็อาจจะอ่อนไหว หรือใครสักคนอยากจะปล่อยมือกันไป แล้วใครอีกคน หรือบางทีในความสับสน ความสับสนที่เป็นเพื่อนของเราทั้ง 2 คน นะ! ว่ามั๊ย?
+ใช่ ... ก็แค่ถ้าเผื่อ เผื่อว่าถ้ามีบางอย่างเข้ามาและผ่านเราไป แล้วใครสักคนก็อาจจะอ่อนไหว หรือใครสักคนอยากจะปล่อยมือกันไป แล้วใครอีกคน หรือบางทีในความสับสน ความสับสนที่เป็นเพื่อนของเราทั้ง 2 คน นะ! ว่ามั๊ย?\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/DviID8Ni7Ns" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />รอก่อนเผื่อว่าอะไรจะแน่นอน <i class="fa fa-heart" style="color:#C38FD6"></i> รอก่อนแต่ก็เชื่อใจและยังเชื่อในความหมายที่เป็นของเรา 2 คน นะ! ว่ามั๊ย?
+> รอก่อนเผื่อว่าอะไรจะแน่นอน <svg class="love"><use xlink:href="#icon-heart"></use></svg> รอก่อนแต่ก็เชื่อใจและยังเชื่อในความหมายที่เป็นของเรา 2 คน นะ! ว่ามั๊ย?
