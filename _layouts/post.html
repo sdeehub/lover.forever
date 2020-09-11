@@ -43,10 +43,8 @@
                         {% for post in shuffled_array limit:3 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
-                                    {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                    {% if post.youtube %}
+                                        <img src="{{ "https://img.youtube.com/vi/" | append: page.youtube | append: "/maxresdefault.jpg" }}">
                                     {% else %}
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}

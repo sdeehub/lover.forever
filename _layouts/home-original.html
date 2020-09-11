@@ -52,20 +52,10 @@ layout: main
                 <div class="box-body">
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                         {% include loader.html %}
-                        {% if post.optimized_image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}" class="preload">
+                        {% if post.youtube %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ "https://img.youtube.com/vi/" | append: page.youtube | append: "/hqdefault.jpg" }}" class="preload">
                             <noscript>
-                                <img src="{{ post.optimized_image }}" width="100%">
-                            </noscript>
-                        {% elsif post.image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload">
-                            <noscript>
-                                <img src="{{ post.image }}" width="100%">
-                            </noscript>
-                        {% else %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
-                            <noscript>
-                                <img src="/assets/img/off.jpg" width="100%">
+                                <img src="{{ "https://img.youtube.com/vi/" | append: page.youtube | append: "/hqdefault.jpg" }}" width="100%">
                             </noscript>
                         {% endif %}
                         {% include new-post-tag.html date=post.date %}

@@ -4,8 +4,6 @@ layout: post
 title: "ก่อนถึงบ้าน"
 subtitle: "การเดินทาง การรอคอย การกลับบ้าน ... เวลาที่เหลืออยู่มีความหมายอะไรสักอย่าง"
 hero_image: https://source.unsplash.com/t4dwuuMH5MU
-image: https://img.youtube.com/vi/sG4MXjqx2pA/maxresdefault.jpg
-optimized_image: https://img.youtube.com/vi/sG4MXjqx2pA/maxresdefault.jpg
 youtube: sG4MXjqx2pA
 category:
   - rock
