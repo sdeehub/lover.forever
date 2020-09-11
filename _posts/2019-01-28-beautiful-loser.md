@@ -1,11 +1,18 @@
 ---
+date: 2019-01-28 21:30:44 +0700
 layout: post
 title: "ขอบใจนะ แต่เราไม่เป็นไรจริงๆ"
-date: 2019-01-28 21:30:44 +0700
-tags: ความเศร้าที่สวยงาม
-description: ถ้าไม่ใช่ก็คงไปฝืนอะไรไม่ได้แล้วล่ะ ... จริง ๆ เราไม่เป็นไรจริงๆ
-comments: true
+subtitle: "ถ้าไม่ใช่ก็คงไปฝืนอะไรไม่ได้แล้วล่ะ ... จริง ๆ เราไม่เป็นไรจริงๆ"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: 9UXYWfLnCwY
+category:
+  - rock
+tags:
+  - อัสนี-วสันต์
+author: thiagorossener
 ---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+
 คืออันนี้เอาแบบจริง ๆ เลยนะ เหมือนปน ๆ บอกไม่ถูก จะเศร้าก็โครตเศร้า จะเสียใจก็โคตรจะเสียใจ แต่ก็มีแบบโคตรดีใจสุด ๆ ด้วยนะ คือก็ดีใจที่แก๊ปก็ยังเป็นแก๊ปแล้วพี่เค้าก็ยังแบบว่าใช่จริง ๆ ... จริง ๆ คือเราก็รู้ว่าสู้พี่เขาไม่ได้สักอย่างไง คือตอนแรกก็คิดแบบนั้นนะ จำได้มั๊ยสมัยเรียนก็อยากจะตัวใหญ่ ๆ โตช้าก็ยังอยากจะเล่นกล้ามให้ตัวใหญ่ ๆ แล้วไง เล่นยังไงก็ได้แค่ก้าง แต่ก็ไม่สนใจนะ
 
 อยากเท่ห์แบบว่าเปรี้ยว ๆ ไง สมัยนั้นน่ะ ก็คิดว่าอาจจะมีใครเค้าพูดถึงเราบ้าง ก็รู้ว่ามีบ้างนะ แต่คือนั่นไม่ใช่คนที่เราชอบไง ก็คงจะรู้สึกเหมือนกันมั๊ยนะแก๊ป เราชอบคนนี้ แต่คนนี้ไม่ได้ชอบเรา แล้วคนที่ชอบเรา เราก็ไม่ได้ชอบเค้า บางคนบอก Puppy Love คือตอนนั้นยังนึกว่าแปลว่ารักหมาอยู่เลยไง นึกแล้วก็ขำตัวเองได้อีกว่ะ
@@ -16,12 +23,11 @@ comments: true
 
 แต่ดีใจนะ เพิ่งมารู้ว่าแก๊ปจำได้ เราเข้าใจว่าคงไม่มีใครอยากจำเรื่องของเราว่ะ ขนาดเจอไอ้เผือกตอนที่มาอยู่ที่นี่ ตอนแรกมันแบบไม่เชื่อว่าเรียนโรงเรียนเดียวกัน มันยังถามแบบงง ๆ เลยว่าเราอยู่ห้องไหน บอกของเรามันบอกไม่คุ้นเลย แต่พอบอกชื่อแก๊ป มันอ๋อทันที อืม ... เราดีใจด้วยนะ ก็ได้ข่าวอัพเดทมาจากไอ้เผือกนี่ล่ะ ก็สนิทกันมากอยู่ เราได้รู้เรื่องที่เมืองไทยก็จากไอ้เผือกนี่ล่ะ
 
-ตอนนี้ของเราก็ทำงานแล้วก็ต้องย้ายมาอยู่ Dallas แผนก็ไม่มีอะไรอยู่ ๆ ไปก่อน ตัวคนเดียว เมืองไทยก็ไม่ได้คิดจะกลับ อืม ... ขอบคุณที่ยังนึกถึงเรานะ ดีใจด้วยจริง ๆ แล้วก็ตอนนี้รู้แล้วล่ะ :)
-
-> Don't fight with other men over a woman. Regardless of how amazing you think she is. She's not a trophy, asset, or a piece of territory. Let her work out who she wants to be with on her own, She's human. ~ The Gentleman's Guide
+ตอนนี้ของเราก็ทำงานแล้วก็ต้องย้ายมาอยู่ Dallas แผนก็ไม่มีอะไรอยู่ ๆ ไปก่อน ตัวคนเดียว เมืองไทยก็ไม่ได้คิดจะกลับ อืม ... ขอบคุณที่ยังนึกถึงเรานะ ดีใจด้วยจริง ๆ แล้วก็ตอนนี้รู้แล้วล่ะ :)\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/9UXYWfLnCwY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />Ok ไปก่อนล่ะ <i class="fa fa-heart" style="color:#C38FD6"></i> Happy honeymoon to both of you guys!
+> Ok ไปก่อนล่ะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> Happy honeymoon to both of you guys!

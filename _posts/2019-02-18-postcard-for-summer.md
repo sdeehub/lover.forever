@@ -1,9 +1,23 @@
 ---
+date: 2019-02-18 20:12:16 +0700
 layout: post
 title: "โปสการ์ดตอนหน้าร้อน"
-date: 2019-02-18 20:12:16 +0700
+subtitle: "บางที บางอย่าง ชีวิตจริงก็จะคล้าย ๆ แบบนี้ จะเข้าหน้าร้อนทั้งที เตรียมหลบฝนกันให้ดี แล้วรอรับโปสการ์ดด้วยนะ"
+hero_image: https://source.unsplash.com/t4dwuuMH5MU
+youtube: VtXt3K2FSVU
+category:
+  - rock
+tags:
+  - อัสนี-วสันต์
+author: thiagorossener
+---
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+---
+layout: post
+title:
+date:
 tags: StoryLog
-description: บางที บางอย่าง ชีวิตจริงก็จะคล้าย ๆ แบบนี้ จะเข้าหน้าร้อนทั้งที เตรียมหลบฝนกันให้ดี แล้วรอรับโปสการ์ดด้วยนะ
+description:
 comments: true
 ---
 สวัสดี
@@ -12,10 +26,11 @@ comments: true
 
 คิดถึงคุณนะ ดูแลตัวเองด้วย
 
-บ๊ายบาย
+บ๊ายบาย\
+`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/VtXt3K2FSVU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
-<br />ปล. พรุ่งนี้มาฆบูชา <i class="fa fa-heart" style="color:#C38FD6"></i> ธรรมรักษานะ
+> ปล. พรุ่งนี้มาฆบูชา <svg class="love"><use xlink:href="#icon-heart"></use></svg> ธรรมรักษานะ
