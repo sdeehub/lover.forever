@@ -3,15 +3,15 @@ date: 2020-03-11 T05:54:38+07:00
 layout: post
 title: "แปป ๆ นะ แปป แปป"
 subtitle: "ใครบอกนะว่า -เวลาไม่เคยคอยใคร- แล้วรถเมล์ล่ะ เค้าจะคอยเรามั๊ย?"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/8AiqkQsA6r8
 youtube: 9N9opF-PK5k
 category:
-  - rock
+  - r&b
 tags:
-  - อัสนี-วสันต์
+  - Boyz II Men
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Masaaki Komori](https://unsplash.com/@gaspanik) / Unsplash*
 
 นานแล้ว หรือแค่เผลอแปป ๆ แปปเดียว ยังไม่ได้ไปเที่ยวไหนเลย จำได้มั๊ย? ที่เคยวางแผนการเดินทางกันเอาไว้ไง ที่บอกว่าพวกเราน่าจะเดินทางออกตามหา old man : espostoa ให้เจอกันในทะเลทราย คือเอาแบบไปที่บ้านเกิดเมืองนอนของเค้าเลย ... จำได้ว่าเอาแผนที่มากาง จำได้ว่าอบขนมมาทาน จำได้ว่าข้าวปลาคือแบบไม่ต้องเลย แค่คิดถึงเรื่องการเดินทางก็ตื่นเต้นกันเต็มอิ่มแล้ว
 
@@ -32,7 +32,7 @@ author: thiagorossener
 xxx
 
 ปล. เวลา กับ วารี ไม่เคยคอยใคร? ไม่ต้องสงสัยนะว่าทำไมวารีถึงใจร้ายจัง จริง ๆ ก็แค่เธอไม่อยากไปสายก็แค่นั้นเอง ... แต่สำหรับที่นี่ และ ที่นั่น\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Water Runs Dry - Boyz II Men*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>

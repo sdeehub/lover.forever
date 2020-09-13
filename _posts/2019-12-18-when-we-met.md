@@ -3,15 +3,15 @@ date: 2019-12-18 06:39:09 +0700
 layout: post
 title: "18 ธันวาฯ ที่ไม่รู้ว่ากี่องศา"
 subtitle: "เช้านี้ที่สูงเนินอีกวันแล้วนะ วันเวลาเปลี่ยนไป อากาศเปลี่ยนไป ไข้ก็เริ่มหายไป ทุกอย่างดีขึ้น ๆ - ทุกอย่างดีขึ้น ๆ ตั้งแต่วันที่เราได้พบกัน"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/7_VR_a_20Wg
 youtube: TBTI7_90o8U
 category:
-  - rock
+  - pop
 tags:
-  - อัสนี-วสันต์
+  - Stamp ft. Palmy
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Falco Negenman](https://unsplash.com/@f9lco) / Unsplash*
 
 เช้านี้สดใส การรอคอยพาเรามาพบกับปลายทาง การพบกันกลายเป็นความเปลี่ยนแปลง กลายเป็นทุกสิ่งทุกอย่าง เรื่องราวอีกมากมายกลายเป็นความตั้งอกตั้งใจ ลมหายใจกลายเป็นส่วนหนึ่งของกันและกัน ... สำหรับรอยยิ้ม
 
@@ -24,7 +24,7 @@ author: thiagorossener
 ไม่ว่าอะไรจะเกิดขึ้นมาก่อนหน้านี้ ไม่ว่าอะไรจะเกิดต่อไปนับจากตอนนี้ ... ทุก ๆ อย่างต่างก็เกี่ยวโยงถึงกันอยู่แล้วในลมหายใจนี้ และแม้แต่เวลา อนาคต อดีต และ ปัจจุบัน
 
 ดีใจนะ!\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงกาลครั้งหนึ่ง - Stamp ft. Palmy*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
