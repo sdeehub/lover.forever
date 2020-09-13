@@ -3,15 +3,15 @@ date: 2020-07-31 T07:57:29+07:00
 layout: post
 title: "(อยาก)ออกไป"
 subtitle: "เช้านี้อยากให้เหมือนกับเช้าที่ เรา ..."
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/pKnmjWQJfAw
 youtube: 3jGkpMFOAAI
 category:
   - rock
 tags:
-  - อัสนี-วสันต์
+  - ธเนศ วรากุลนุเคราะห์
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Jon Tyson](https://unsplash.com/@jontyson) / Unsplash*
 
 เช้านี้ดูเหนื่อย ๆ คงจะเพราะขาดอะไรไป? นั่นสิ ว่าแต่ยังจะขาดอะไรไป? เครื่องดื่ม alcohol หรือ กาแฟในตอนเช้า ... หมายถึงดื่ม หรือ กลิ่น หรือทั้ง 2 อย่าง หรือยังขาดอะไรอีกบ้าง? ใช่คุณหรือเปล่าที่จริง ๆ แล้วขาด และหาย ไป? อาจจะใช่ หรือไม่ใช่ แต่เรื่องที่ยากกว่าการจะหาคำตอบว่าอะไรที่ขาดหายไป น่าจะเป็นการตอบคำถามว่าแล้วเราจะทำยังไงกันต่อไป - ค้างคา ร้างลา กลับมา จากไป จากกัน ตลอดไป หรือเอายังไงกันดี
 

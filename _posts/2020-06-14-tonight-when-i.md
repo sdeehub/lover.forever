@@ -3,15 +3,15 @@ date: 2020-06-14 T23:13:14+07:00
 layout: post
 title: "คืนนี้"
 subtitle: "คืนนี้อยากให้ฝนตก อยากได้ยินเสียงฝน แล้วก็อยากให้ใครบางคนคิดถึงเรา จะได้มั๊ย?"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/y9CLKxsP9gg
 youtube: 4hi6oj5Ws4s
 category:
-  - rock
+  - lo-fi
 tags:
-  - อัสนี-วสันต์
+  - The Bootleg Boy
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Alexandre Debiève](https://unsplash.com/@alexkixa) / Unsplash*
 
 คืนนี้ฝนทำท่าจะตกนะ ถ้าฝนตกคงจะคิดถึงมากกว่านี้ ก็ไม่รู้สิ ไม่รู้ว่าเพราะอะไร แต่ก็อยากให้ฝนตก จะได้เย็นหน่อย หรือบางทีเสียงฝนก็ได้ช่วยให้ไม่ต้องเงียบแบบนี้ บางทีก็ไม่อยากคิด แต่หยุดไม่ได้ บางทีก็อยากหลับไปกับเสียงฝน บางทีก็อยากแค่ให้ใครสักคนโทรหา โทรมาถามว่าฝนตกมั๊ย โทรมาเล่าว่าที่นั่นน้ำท่วมก็ได้ ... อยากฟัง
 
@@ -26,7 +26,7 @@ author: thiagorossener
 ถ้าอยู่ข้างนอก เวลาฝนตกจะเปียกแค่ไหน บางทีก็อยากหาที่หลบฝนด้วยกัน ว่ามั๊ย ขับรถลุยฝนก็ได้ ไม่ต้องไปไกล แค่วนรอบหอนาฬิกา วนไปเรื่อย ๆ ก็ได้
 
 ถ้าฝนตก จะโทรมาหน่อยได้มั๊ย? ก็แค่อยากคิดถึงแบบนี้ เวลาที่ฝนตกมาน่ะ ไม่มีอะไร\
-`ขอบคุณ:` *เพลงคนเกลียดคน ... อย่า(ก)ออกไป - ธเนศ วรากุลนุเคราะห์*
+`ขอบคุณ:` *เพลงชุด I Think About You When It Rains - The Bootlet Boy*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
