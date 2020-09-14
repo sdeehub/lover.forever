@@ -3,15 +3,15 @@ date: 2019-12-05 08:08:19 +0700
 layout: post
 title: "16c ที่นี่สูงเนิน"
 subtitle: "เช้านี้ที่สูงเนินเป็นยังไงบ้าง? เหมือนจะได้ยินใครถามขึ้นมาแบบนี้เบา ๆ ลอยมากับลมหนาว"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/NHJV8rOPDXk
 youtube: cfReVoUn4Is
 category:
-  - rock
+  - pop
 tags:
-  - อัสนี-วสันต์
+  - มัม ลาโคนิค
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Suzanne Emily O’Connor](https://unsplash.com/@suzanneemily) / Unsplash*
 
 สวัสดีเช้านี้เป็นยังไง สบายดีใช่มั๊ย? ... ไม่รู้ว่าอยากถาม หรืออยากเล่ากันแน่นะ :)
 
@@ -30,7 +30,7 @@ author: thiagorossener
 สงสัยจะเย็นมากไปเลยนอนไม่ค่อยหลับเหรอ? - ก็ไม่นะ หลับสบายดีเลยหล่ะ แล้วก็แค่ตื่นเร็วขึ้นมาหน่อย สักครึ่งชม. อาจจะเพราะน่าจะตื่นเต้นมากกว่า วันนี้มีโปรแกรมให้ต้องเดินทางนิดหน่อยช่วงบ่ายหน่ะ ... ไม่ได้เที่ยวอะไรไกลหรอกนะ ขับรถสักชม.ครึ่ง ออกไปฟาร์มแค่นี้เอง ก็ไปเก็บข้อมูลมาทำ paper ไง :)
 
 อาจจะมีแอบแวะเที่ยวไปด้วยระหว่างทาง (ก็แค่อาจจะนะ 555) แต่ได้ออกไปนอก ๆ เมืองบ้างก็ถือว่าได้สนุกแล้วล่ะ ... ว่าแต่เช้านี้ได้โอวัลติน กับ Michael Buble - Always on my mind มาช่วยเพิ่มความอบอุ่นแล้วนะ ขอบคุณมาก ๆ นะ\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงเติมใจให้กัน - มัม ลาโคนิค*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
