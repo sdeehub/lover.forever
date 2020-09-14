@@ -15,10 +15,8 @@
                     <li>
                         <a href="{{ post.url | prepend: site.baseurl }}">
                             <figure>
-                                {% if post.optimized_image %}
-                                    <img src="{{ post.optimized_image }}">
-                                {% elsif post.image %}
-                                    <img src="{{ post.image }}">
+                                {% if post.youtube %}
+                                    <img src="{{ "https://img.youtube.com/vi/" | append: post.youtube | append: "/maxresdefault.jpg" }}">
                                 {% else %}
                                     <img src="/assets/img/off.jpg">
                                 {% endif %}
