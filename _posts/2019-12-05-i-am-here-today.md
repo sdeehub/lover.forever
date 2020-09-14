@@ -3,7 +3,7 @@ date: 2019-12-05 08:08:19 +0700
 layout: post
 title: "16c ที่นี่สูงเนิน"
 subtitle: "เช้านี้ที่สูงเนินเป็นยังไงบ้าง? เหมือนจะได้ยินใครถามขึ้นมาแบบนี้เบา ๆ ลอยมากับลมหนาว"
-hero_image: https://source.unsplash.com/NHJV8rOPDXk
+hero_image: https://source.unsplash.com/PJ6hWQIUmJQ
 youtube: cfReVoUn4Is
 category:
   - pop
@@ -11,7 +11,7 @@ tags:
   - มัม ลาโคนิค
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Suzanne Emily O’Connor](https://unsplash.com/@suzanneemily) / Unsplash*
+`ขอบคุณ:` *[Gabriele Motter](https://unsplash.com/@wide_leaf) / Unsplash*
 
 สวัสดีเช้านี้เป็นยังไง สบายดีใช่มั๊ย? ... ไม่รู้ว่าอยากถาม หรืออยากเล่ากันแน่นะ :)
 
