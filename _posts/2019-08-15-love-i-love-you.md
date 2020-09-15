@@ -3,15 +3,15 @@ date: 2019-08-15 21:51:38 +0700
 layout: post
 title: "บอกนะ...บอกรัก"
 subtitle: "ก่อนนอน ทำอะไร? ... ก่อนนอน ฟังเพลงอะไร? ... ก่อนนอน คิดถึงกันบ้างมั๊ย?"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: l9V1a-vMBO0
+hero_image: https://source.unsplash.com/jcc8sxK2Adw
+youtube: i5i4-6XoYQU
 category:
-  - rock
+  - pop
 tags:
-  - อัสนี-วสันต์
+  - Nadia
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Debby Hudson](https://unsplash.com/@hudsoncrafted) / Unsplash*
 
 อืม ... คืนนี้ล่ะ? คิดถึงกันบ้างมั๊ย
 
@@ -20,7 +20,7 @@ author: thiagorossener
 อืม ... ตอนนี้ล่ะ? หลับไปแล้วหรือยังไง
 
 จะตีสามแล้ว ตอนนี้ยังนั่งทำอะไรอยู่มั๊ย? แล้วถ้าหลับจะฝันดีแค่ไหน หรือว่า เอ่อ เธอยังนั่งคิดถึงใคร อยากรู้ว่าใครจะคิดถึงใครมากกว่าใคร หรือว่าแล้วคนในฝันคนนั้นคือใคร? ทำไมถึงได้อยากรู้ ๆ อะไรมากมาย? ... แต่ นอกจากอยากรู้ แล้วยังอยากบอกอะไรให้ คิดว่าช่วยฟังหน่อยนะ เธอ คนดี\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงรัก...ฉันรักเธอ (Acoustic) - Nadia*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
