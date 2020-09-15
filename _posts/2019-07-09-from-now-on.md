@@ -3,15 +3,15 @@ date: 2019-07-09 06:13:24 +0700
 layout: post
 title: "วันที่เท่าไหร่"
 subtitle: "เมื่อไหร่ วันไหน ที่ไหน ยังไง - จะตอบอะไรก็ได้ แค่ขอให้คุณกลับมา"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/1-9nfcJ7-Zk
 youtube: lU9p1WRfA9w
 category:
-  - rock
+  - pop
 tags:
-  - อัสนี-วสันต์
+  - Patrick Swayze
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Dario Valenzuela](https://unsplash.com/@darvalife) / Unsplash*
 
 อืม ... เมื่อคืนนี้ฝันถึงกัน - อืม ... เมื่อวานนี้นั่งร้องไห้
 
@@ -24,7 +24,7 @@ author: thiagorossener
 แม่บอกคุณเดินเล่นในสวนอยู่นาน อยากรู้ว่าต้นไม้จะคิดถึงคุณมั๊ย? แล้วใครจะเอาถั่วมาเลี้ยงกระรอกเหรอ? บางครั้งสมาชิกใหม่ก็มาพร้อมกับความทรงจำอะไร ๆ เยอะมากมาย - ยังจำได้ตอนที่เราเจอกันครั้งแรกนะ
 
 แต่ตอนนี้แค่อยากรู้ว่าแล้วเมื่อไหร่เราจะได้เจอกันอีก ... ก็แค่นั้น\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง She's like the wind - Patrick Swayze ft. Wendy Fraser*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
