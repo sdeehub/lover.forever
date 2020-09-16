@@ -3,22 +3,22 @@ date: 2019-05-20 01:55:55 +0700
 layout: post
 title: "เช้าวันที่ทุกอย่างเปลี่ยนไป"
 subtitle: "บางอย่าง บางที บางวัน หรือ อาจจะบางคืน - ถ้าเราไม่ได้นอนไว หรือ ไม่ได้นอนเลย"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/p5CFpOiYweU
 youtube: UkCkWXRNqds
 category:
-  - rock
+  - OST
 tags:
-  - อัสนี-วสันต์
+  - About Time OST
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Hutomo Abrianto](https://unsplash.com/@hutomoabrianto) / Unsplash*
 
 ตื่นเต้น ไม่ได้หลับได้นอน แต่ในความหมายที่ดี เป็นความตื่นเต้นที่ดี มีความหมายที่ดี พร้อมที่จะเปลี่ยนเรา และพวกเราไปตลอดกาล - ไม่มีทางจะเหมือนเดิมอีกต่อไป แววตา / รอยยิ้ม / ชีวิต และ การร้องไห้
 
 บางอย่าง / บางที / บางวัน - และที่สำคัญพวกเราโชคดี ยุคสมัยทำให้เรื่องราวเกิดขึ้นได้ง่าย ๆ สะดวกสบาย ใช้เวลาเดินทางไม่นาน พวกเราก็มาถึงที่ ... ได้เวลากันแล้ว ดวงตาคู่นั้น ลมหายใจนั้น เลือดเนื้อ และ การร่ำร้องไห้
 
 เมื่อเสียงร้องมีความหมายอะไรบางอย่างที่สำคัญและน่ายินดีที่สุด - นานมาแล้ว ใครจะรู้ว่าการพบกัน นั่นจะหมายถึง การเดินทาง การร่วมทาง หรือแม้แต่สวนทาง จะยังไงก็ตาม ถึงยังไงก็แล้วแต่ ที่แน่ ๆ จากนี้ไป คำว่า 'ความรัก'\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Mid Air - Paul Buchanan*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
