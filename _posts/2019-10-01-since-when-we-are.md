@@ -3,7 +3,7 @@ date: 2019-10-01 21:53:28 +0700
 layout: post
 title: "กาลครั้งหนึ่ง"
 subtitle: "กาลครั้งหนึ่ง นานแค่ไหนมาแล้ว ... นั่นสิ แล้วนานแค่ไหนกันแล้วล่ะจริงๆ"
-hero_image: https://source.unsplash.com/ASv7FfA6qcw
+hero_image: https://source.unsplash.com/aso6SYJZGps
 youtube: IatZP3NlUnY
 category:
   - rock
@@ -11,7 +11,7 @@ tags:
   - หรั่ง ร็อคเคสตร้า
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Louis Zhang](https://unsplash.com/@8lzz) / Unsplash*
+`ขอบคุณ:` *[Hannah Wei](https://unsplash.com/@herlifeinpixels) / Unsplash*
 
 ประโยคอะไร? หรือว่านี่คือประโยคบอกว่า คิดถึง ... แต่น่าจะเพราะช่วงนี้ หลายวัน หลายเดือน หลายปี นานมานี้วุ่นมาก ยุ่งมาก
 
