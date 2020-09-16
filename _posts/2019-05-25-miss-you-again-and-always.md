@@ -3,15 +3,15 @@ date: 2019-05-25 15:55:17 +0700
 layout: post
 title: "วันที่คิดถึง"
 subtitle: "ทะเลก็มีฟ้า ทะเลก็มีทราย ทะเลก็มีสายลม ทะเลก็มีปลา ... ทะเลก็มีฟ้า แล้วก็วน วน วน"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/G6sTAqR5uMc
 youtube: S5To4bOwCKw
 category:
   - rock
 tags:
-  - อัสนี-วสันต์
+  - กิตติ กาญจนสถิตย์
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Johannes W](https://unsplash.com/@johanneswre) / Unsplash*
 
 บางทีความคิดก็เข้ามาเวียนวน วกวน กลับไป กลับมา ... คิดถึงใครบางคน คิดถึงวันเวลา คิดถึงหน้า คิดถึงแววตา คิดถึงรอยยิ้ม คิดถึงอะไร ๆ อีกหลาย ๆ อย่าง คิดถึงวนไป วนมา - เราว่าความคิดถึงก็คล้ายกับทะเล ขึ้น-ลง ซัดสาด ราบเรียบ เงียบเหงา แบบนี้ทุกคืน
 
@@ -26,7 +26,7 @@ author: thiagorossener
 ก็ได้แต่คิดถึง พร้อมกับรอยยิ้มน้อย ๆ พร้อมกับรอยเท้าที่จางหายไปบนพื้นทราย กลายเป็นเรื่องราวและความทรงจำที่ฝากไว้ให้คิดถึงเวลาที่ได้ยิน เวลาที่ได้กลิ่น เวลาที่วนเวียน ... อยู่กับทะเล
 
 สบายดีใช่มั๊ย? ทานข้าวแล้วใช่มั๊ย? นอนหลับดีใช่มั๊ย? - และก็อีกหลาย ๆ เรื่องที่อยากถามไปตามประสาของคนที่คิดถึง\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงสายธารใต้ขุนเขา - กิตติ กาญจนสถิตย์*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
