@@ -27,5 +27,3 @@ author: thiagorossener
 </iframe>
 </div>
 > คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> คิดถึงมากจริง ๆ
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

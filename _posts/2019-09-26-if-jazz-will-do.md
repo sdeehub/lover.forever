@@ -3,15 +3,15 @@ date: 2019-09-26 21:19:48 +0700
 layout: post
 title: "ไฟส้ม กับ เพลง Jazz"
 subtitle: "ก่อนนอน ทำอะไร? ... ก่อนนอน ฟังเพลงอะไร? ... ก่อนนอน คิดถึงกันบ้างมั๊ย? แล้วยิ่งถ้านั่งอยู่ในร้านไฟส้ม ๆ ลมพัดเพลง Jazz มาเบา ๆ ข้าง ๆ หู"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/GVGBs3oN6pg
 youtube: tOmpj6urvbE
 category:
-  - rock
+  - jazz
 tags:
-  - อัสนี-วสันต์
+  - โก้ Mr. Saxman
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Lon Christensen](https://unsplash.com/@lonwake) / Unsplash*
 
 อืม ... คืนนี้ล่ะ? คิดถึงกันบ้างมั๊ย
 
@@ -26,7 +26,7 @@ author: thiagorossener
 คิดถึงนะ ... แล้วก็จะลองดูด้วยว่า ถ้า google "ตอนนี้ โก้ อยู่ที่ไหน แล้วยังคิดถึงกันมั๊ย" แล้วคำตอบจะออกมาเป็นยังไง?
 
 อีกอย่าง ... ที่ นี่หมดฝนแล้ว จำได้มั๊ย!\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงภาวนา - โก้ Mr. Saxman*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
