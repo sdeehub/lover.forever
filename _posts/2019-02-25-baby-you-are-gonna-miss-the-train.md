@@ -4,11 +4,11 @@ layout: post
 title: "อยู่ต่อก่อนมั๊ย?"
 subtitle: "หรืออาจจะเพราะแบบนี้? ดูหนัง แล้วก็ทำตามในหนัง ฟังเพลง แล้วก็กลายเป็น Soundtrack of my life. - แล้วใช่มั๊ยล่ะ?"
 hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: MdHzN90y0wI
+youtube: hfFUCSKz7R4
 category:
-  - rock
+  - pop
 tags:
-  - อัสนี-วสันต์
+  - ศรัณย่า ส่งเสริมสวัสดิ์
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
@@ -24,7 +24,7 @@ author: thiagorossener
 ว่าแล้วเธอก็เดินไป เปิดแผ่นเพลง ฝัน ... ฝันหวาน ของ ผุสชา โทณะวณิก - ตอนนี้ในห้องนี้มีเสียงเพลง ที่มีเสียงหวาน ๆ มีรอยยิ้ม ที่เป็นอมยิ้มตรงริมปาก มีชาอุ่น ๆ ที่ทำให้มีบรรยากาศหรืออะไร อันนี้ก็แล้วแต่ใครจะคิดกันไป
 
 แล้ว ... สักพักเธอก็พูดเบา ๆ ขึ้นมา เหมือนว่าจะเป็นตอนจบที่คล้าย ๆ กัน\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลงอยู่นาน ๆ ได้ไหม - ศรัณย่า ส่งเสริมสวัสดิ์*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
