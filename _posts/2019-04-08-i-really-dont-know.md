@@ -3,15 +3,15 @@ date: 2019-04-08 22:03:39 +0700
 layout: post
 title: "ก็ไม่รู้สินะ"
 subtitle: "ในรอยยิ้มนั้นมีอะไรบางอย่าง รอยยิ้มที่อาบไว้ด้วย ..."
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/HwU5H9Y6aL8
 youtube: b3iTib5jvjU
 category:
   - rock
 tags:
-  - อัสนี-วสันต์
+  - Sophie Lloyd
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Kelly Sikkema](https://unsplash.com/@kellysikkema) / Unsplash*
 
 ยิ้มหวาน สดใส - ในรอยยิ้มนั้นมีอะไรสักอย่าง ในรอยยิ้มนั้นมีอะไรบางอย่าง และ ในรอยยิ้มนั้นก็มีแทบจะทั้งหมดของหลาย ๆ เรื่อง หลาย ๆ สิ่ง หลาย ๆ อย่าง เกี่ยวกับเธอ อยู่ในนั้น ความจริงใจ ความสดใส ชีวิตชีวาหรือว่าแค่รอยยิ้มตามอัธยาศัย ยิ้มตามมารยาทที่ควรจะเป็นไป ไม่มีใครรู้ ไม่มีใครเข้าใจ แม้แต่เรา และแม้แต่เธอเอง ทั้งหมดล้วนเป็นเพราะกลไกอะไรบางอย่าง กลไกที่นำไปสู่ความผิดเพี้ยน
 
@@ -20,7 +20,7 @@ author: thiagorossener
 แต่ทำไม รอยยิ้ม ความสดใส ความเป็นไป ความตื่นเต้นเร้าใจ - ทั้งหมดอาจจะ หรือทั้งหมดก็แค่ อย่างที่ว่า ที่ว่าไม่ได้มีใครตั้งใจ ไม่ได้มีใครคิดจะซ่อนอะไรเอาไว้ เพียงแค่ หรือเพียงแต่ ความเปิดเผย ตรงไป-ตรงมา ไม่ได้มีทีท่าว่าจะ ...
 
 สุดท้ายก็เงียบหาย ... รอยยิ้ม ... หายไป หายไป พร้อมกับ เธอคนนั้น เพียงแต่ว่า รอยยิ้ม และ ความหมายที่ว่า ... ยังคง - และ ยังตาม ... ตามมา\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Battleground - Sophie Lloyd*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
