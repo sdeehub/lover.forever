@@ -4,11 +4,11 @@ layout: post
 title: "อาจจะใช่จริงๆ"
 subtitle: "ใช่! อาจจะใช่จริง ๆ เพราะเวลาที่เราหันมา แล้วคุณก็หลบตา แต่ว่ามันยังมีสักนิดที่เราเห็นแว่บของแววตาและรอยยิ้มในนั้น ... ด้วยกัน"
 hero_image: https://source.unsplash.com/VuPIUePS_vU
-youtube: 651E4R9RjAs
+youtube: LNBjMRvOB5M
 category:
-  - pop
+  - Synth-Pop
 tags:
-  - Garden City Movement
+  - Pet Shop Boys
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Nick Baker](https://unsplash.com/@nickb) / Unsplash*
@@ -26,7 +26,7 @@ author: thiagorossener
 ก็คงจะเพราะแบบนี้ที่เวลาไปไหน ทำไมต้องใช้รถคันใหญ่ ๆ ไม่ใช่เพราะจะได้ไปกันหลาย ๆ คนนะ เพราะมีแต่คนตัวเล็ก ๆ ที่ข้าวของมากมายต่างหากล่ะ ... ที่พูดถึงนี่คือเรื่องที่ทำให้พวกเรายิ้มออกนะ เพราะถ้าป่านนี้แล้วพวกเรายังเดินทางกันแค่ 2 คน ถึงจะไปไกลแค่ไหน ก็แค่ 2 คน แล้วถึงระหว่างทางจะมีเมืองเล็ก ๆ ที่มีเสน่ห์ดึงดูดเราไว้แค่ไหน - นั่นก็แค่ 2 คน ว่ามั๊ย? แบบนั้นก็อาจจะใช่ ... แต่แบบที่ใช่จริง ๆ น่ะ
 
 บางทีเด็ก ๆ ก็ต้องการลงจากรถออกไปวิ่งเล่นบ้าง อะไรบ้าง แวะพักล้างหน้าล้างตาบ้าง ห้องน้ำของพวกเด็ก ๆ นี่ไม่เท่าไหร่ เพราะส่วนใหญ่จะเป็นการหยุดลงไปเทกระโถนซะมากกว่านะ - เมืองเล็ก ๆ ที่พวกเราหยุดพักในการเดินทางไกล ๆ มักจะเป็นอะไรแบบนี้เสมอ ๆ คือดูมีมนต์เสน่ห์อะไรสักอย่าง ... แล้วตอนนี้ก็มีจักรยานให้ขี่เล่นกันเพิ่มขึ้นมาด้วย\
-`ขอบคุณ:` *เพลง Move On - Garden City Movement*
+`ขอบคุณ:` *เพลง Go West - Pet Shop Boys*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
