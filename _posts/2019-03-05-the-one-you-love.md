@@ -4,11 +4,11 @@ layout: post
 title: "ใครคือคน ๆ นั้น"
 subtitle: "ถึงยุคสมัยจะเปลี่ยนไป แต่ความรักที่ต้องเลือก ก็ยังเกิดขึ้นได้ ไม่เคยเปลี่ยนแปลง"
 hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: xW8z8NrI3tE
+youtube: _z-I8OpCnv4
 category:
-  - rock
+  - pop rock
 tags:
-  - อัสนี-วสันต์
+  - Glenn Frey
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
@@ -37,7 +37,7 @@ author: thiagorossener
 จะต้องไม่ทุกข์ทน โศกเศร้า\
 ทุกวันหมั่นเปรอปรน รักเพื่อ เรานา\
 เขารักมักคอยเฝ้า ค่ำเช้าเอาใจ\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง The One You Love - Glenn Frey*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
