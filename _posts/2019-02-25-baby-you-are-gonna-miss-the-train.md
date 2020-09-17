@@ -31,9 +31,3 @@ author: thiagorossener
 </iframe>
 </div>
 > Baby, you are gonna miss that train. <svg class="love"><use xlink:href="#icon-heart"></use></svg> I know.
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
-<br /> <i class="fa fa-heart" style="color:#C38FD6"></i>
