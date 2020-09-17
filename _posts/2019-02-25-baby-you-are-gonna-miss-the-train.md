@@ -3,7 +3,7 @@ date: 2019-02-25 17:15:18 +0700
 layout: post
 title: "อยู่ต่อก่อนมั๊ย?"
 subtitle: "หรืออาจจะเพราะแบบนี้? ดูหนัง แล้วก็ทำตามในหนัง ฟังเพลง แล้วก็กลายเป็น Soundtrack of my life. - แล้วใช่มั๊ยล่ะ?"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/18wkAqloXZ4
 youtube: hfFUCSKz7R4
 category:
   - pop
@@ -11,7 +11,7 @@ tags:
   - ศรัณย่า ส่งเสริมสวัสดิ์
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Tomas Anton Escobar](https://unsplash.com/@tomasjolmes) / Unsplash*
 
 อยู่ต่อก่อนมั๊ย? - คำถามง่าย ๆ แต่กว่าจะได้คำตอบ ... ทำไมช่างยากเหลือเกิน คงเพราะที่นี่ไม่ได้มีอะไรมาก นอกจากชาอุ่น ๆ  กับ ขนมปังกรอบ A B C แล้วก็ขนมปังกรอบไส้สัปปะรด บางทีอาจจะเป็นเพราะ A B C ต้องมีถึงตัว Z
 
