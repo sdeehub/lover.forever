@@ -3,7 +3,7 @@ date: 2020-08-14 T17:25:14+07:00
 layout: post
 title: "ก่อนถึงบ้าน"
 subtitle: "การเดินทาง การรอคอย การกลับบ้าน ... เวลาที่เหลืออยู่มีความหมายอะไรสักอย่าง"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/s077uL3ytGU
 youtube: sG4MXjqx2pA
 category:
   - rock
@@ -11,7 +11,7 @@ tags:
   - อัสนี-วสันต์
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Grzegorz Kaliciak](https://unsplash.com/@qvist) / Unsplash*
 
 การเดินทาง การรอคอย การกลับบ้าน กับเวลาที่เหลืออยู่มีความหมายอะไรหลาย ๆ อย่างปนอยู่ในนั้น ... รถมาช้า เรามานั่งรอ รถไปแล้ว เราก็มานั่งรอ รถมาถึงแล้ว และบางทีเราก็ยังอยากที่จะนั่งรอ เพราะบางทีการที่จะต้องไปต่อ ก็ทำให้คิดถึงและยังอยากจะอยู่ต่อแบบนี้อีก - *ไปนาน ๆ*
 
