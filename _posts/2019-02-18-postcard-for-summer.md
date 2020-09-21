@@ -3,15 +3,15 @@ date: 2019-02-18 20:12:16 +0700
 layout: post
 title: "โปสการ์ดตอนหน้าร้อน"
 subtitle: "บางที บางอย่าง ชีวิตจริงก็จะคล้าย ๆ แบบนี้ จะเข้าหน้าร้อนทั้งที เตรียมหลบฝนกันให้ดี แล้วรอรับโปสการ์ดด้วยนะ"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/bDuh4oK_MCU
 youtube: VtXt3K2FSVU
 category:
-  - rock
+  - romance
 tags:
-  - อัสนี-วสันต์
+  - Gipsy Kings
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Angèle Kamp](https://unsplash.com/@angelekamp) / Unsplash*
 ---
 layout: post
 title:
@@ -27,7 +27,7 @@ comments: true
 คิดถึงคุณนะ ดูแลตัวเองด้วย
 
 บ๊ายบาย\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Love And Liberte - Gipsy Kings*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
