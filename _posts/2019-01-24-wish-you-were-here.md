@@ -3,7 +3,7 @@ date: 2019-01-24 14:59:29 +0700
 layout: post
 title: "สงสัยอะไรหลาย ๆ อย่าง"
 subtitle: "ถ้าอยู่กรุงเทพฯ ป่านนี้ที่นั่นคงจะดูวุ่นวาย เคยสงสัยมั๊ยว่าแล้วถ้าเราหายไป ... หายไปเงียบ ๆ ... หรือ หายไปอยู่ในที่เงียบ ๆ - จะเป็นยังไง?"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/TOq30NfKFBo
 youtube: hjpF8ukSrvk
 category:
   - rock
@@ -11,7 +11,7 @@ tags:
   - Pink Floyd
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Lê Tân](https://unsplash.com/@ktsfish) / Unsplash*
 
 เราชอบสงสัยอะไรหลาย ๆ อย่างนะ อย่างเช่นวันนั้นที่เราเจอกันครั้งแรก ๆ ก็สงสัยนะว่าทำไมคุณถึงเดินทางคนเดียว สงสัยนะว่าเวลาที่เราถามว่า 'Coffee or Tea?' แล้วคุณจะตอบว่าอะไร สงสัยนะว่าเป็นเพราะอะไรแค่เราเทชาให้ คุณก็ดูจะยิ้มได้ ชาช่วยได้ขนาดนั้นเลยเหรอ หรือว่าเพราะอะไร? - ทำไมในรอยยิ้มนั้นถึงได้ดูอบอุ่นและมีความสุขมากจัง
 
