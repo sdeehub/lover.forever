@@ -4,11 +4,11 @@ layout: post
 title: "ขอบคุณที่รักกัน"
 subtitle: "บางที บางอย่าง ชีวิตจริงก็ไม่ได้เป็นแบบนั้น"
 hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: _jqCHvhmp-k
+youtube: 1vS8tawCMrE
 category:
   - rock
 tags:
-  - อัสนี-วสันต์
+  - Mick Jagger
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
@@ -18,10 +18,12 @@ author: thiagorossener
 ขอบคุณที่ทำให้รู้ว่ารอยยิ้มและความสุขใจเวลาที่เราคิดถึงกันนั้นมันเป็นยังไง ขอบคุณดอกกุหลาบที่เคยฝาก ๆ แอบ ๆ มาส่งให้ ขอบคุณจดหมายและ Postcard และก็การ์ดอวยพรยินดี(ที่ยังเก็บไว้ทุก ๆ ใบ) ขอบคุณของฝากเวลาที่คุณกลับมาจากไปไหน ๆ ขอบคุณเพลงที่เคยส่ง link มาให้ฟัง แล้วก็ขอบคุณหนังทุก ๆ เรื่องที่ชวนให้เราไปดูด้วยกัน
 
 ขอบคุณแล้ว แล้วก็ขอบคุณอีก ... และก็คงเพราะแบบนี้ เพราะความจำไม่ได้สั้น และความรักก็ไม่ได้ยาว - ก็ไม่รู้ว่าในปีนึงจะมานั่งคิดถึงกันอยู่สักกี่วัน? ชีวิตผ่านไปไวนะ ว่ามั๊ย? นั่นนะสิ ชีวิตผ่านไปไว หลาย ๆ อย่างผ่านและหมดไปอย่างรวดเร็ว สรุปแล้วก็คงเป็นเพราะแบบนี้ เพราะความจำไม่ได้สั้น และความรักก็ไม่ได้ยาว\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Hard Woman - Mick Jagger*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
 > ขอบคุณนะที่ตอนนั้นเรารักกัน <svg class="love"><use xlink:href="#icon-heart"></use></svg> ขอบคุณไปถึงท่านนักบุญ Saint Valentine ด้วยนะคะ
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
