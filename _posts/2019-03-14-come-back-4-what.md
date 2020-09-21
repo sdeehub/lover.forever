@@ -3,15 +3,15 @@ date: 2019-03-14 17:39:57 +0700
 layout: post
 title: "การกลับมา นั้น หมายความว่า?"
 subtitle: "บางครั้งความหมายก็ไม่ได้มีประโยชน์หรือเปล่านะ"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/L1bP5M6DhEo
 youtube: DviID8Ni7Ns
 category:
-  - rock
+  - chill pop
 tags:
-  - อัสนี-วสันต์
+  - Men I Trust
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Ava Sol](https://unsplash.com/@avasol) / Unsplash*
 
 คุณจะกลับมาเพื่อ? ถ้าการกลับมานี้หมายความว่า สักวัน ... ไม่อยากพูดคำนั้น ว่าแล้วสักวันคุณก็จะกลับไป สักวันคุณก็จะหายไป สักวันเราก็จะผ่านเรื่องนี้ไป ต่างกันแค่เพียงคุณอาจจะไม่ได้ get emotional about it?
 
@@ -24,7 +24,7 @@ author: thiagorossener
 >If you love someone, set them free. If they come back they’re yours; if they don’t they never were.
 
 ใช่ ... ก็แค่ถ้าเผื่อ เผื่อว่าถ้ามีบางอย่างเข้ามาและผ่านเราไป แล้วใครสักคนก็อาจจะอ่อนไหว หรือใครสักคนอยากจะปล่อยมือกันไป แล้วใครอีกคน หรือบางทีในความสับสน ความสับสนที่เป็นเพื่อนของเราทั้ง 2 คน นะ! ว่ามั๊ย?\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง I hope to be around- Men I Trust*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
