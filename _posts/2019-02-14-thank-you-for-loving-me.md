@@ -3,7 +3,7 @@ date: 2019-02-14 22:14:08 +0700
 layout: post
 title: "ขอบคุณที่รักกัน"
 subtitle: "บางที บางอย่าง ชีวิตจริงก็ไม่ได้เป็นแบบนั้น"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/A6SwomZ9HaQ
 youtube: 1vS8tawCMrE
 category:
   - rock
@@ -11,7 +11,7 @@ tags:
   - Mick Jagger
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Vincent Nguyen](https://unsplash.com/@vincentokc) / Unsplash*
 
 ก็เพราะความจำไม่ได้สั้น และความรักก็ไม่ได้ยาว แต่ยังไง ๆ ก็ต้องขอบคุณที่(เคย)รักกันนะคะ - ขอบคุณที่รอคอย ขอบคุณที่อยู่เป็นเพื่อน ขอบคุณที่คอยให้กำลังใจ ขอบคุณที่คอยขับรถให้ ทั้งไปรับ-ทั้งไปส่ง ขอบคุณที่มาอยู่ตรงนี้เวลาที่ไม่มีใคร แล้วก็ขอบคุณอะไร ๆ อีกหลายต่อหลายอย่าง
 
@@ -25,5 +25,3 @@ author: thiagorossener
 </iframe>
 </div>
 > ขอบคุณนะที่ตอนนั้นเรารักกัน <svg class="love"><use xlink:href="#icon-heart"></use></svg> ขอบคุณไปถึงท่านนักบุญ Saint Valentine ด้วยนะคะ
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
