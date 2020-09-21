@@ -4,11 +4,11 @@ layout: post
 title: "ขอบใจนะ แต่เราไม่เป็นไรจริงๆ"
 subtitle: "ถ้าไม่ใช่ก็คงไปฝืนอะไรไม่ได้แล้วล่ะ ... จริง ๆ เราไม่เป็นไรจริงๆ"
 hero_image: https://source.unsplash.com/IC7HtVYesFs
-youtube: AWV7bfmUZko
+youtube: 9UXYWfLnCwY
 category:
   - pop
 tags:
-  - LEGENDBOY
+  - Acoustic Cover อีฟ x โอ๊ต
 author: thiagorossener
 ---
 `ขอบคุณ:` *[katalin gyurasics](https://unsplash.com/@gyeka) / Unsplash*
@@ -24,10 +24,12 @@ author: thiagorossener
 แต่ดีใจนะ เพิ่งมารู้ว่าแก๊ปจำได้ เราเข้าใจว่าคงไม่มีใครอยากจำเรื่องของเราว่ะ ขนาดเจอไอ้เผือกตอนที่มาอยู่ที่นี่ ตอนแรกมันแบบไม่เชื่อว่าเรียนโรงเรียนเดียวกัน มันยังถามแบบงง ๆ เลยว่าเราอยู่ห้องไหน บอกของเรามันบอกไม่คุ้นเลย แต่พอบอกชื่อแก๊ป มันอ๋อทันที อืม ... เราดีใจด้วยนะ ก็ได้ข่าวอัพเดทมาจากไอ้เผือกนี่ล่ะ ก็สนิทกันมากอยู่ เราได้รู้เรื่องที่เมืองไทยก็จากไอ้เผือกนี่ล่ะ
 
 ตอนนี้ของเราก็ทำงานแล้วก็ต้องย้ายมาอยู่ Dallas แผนก็ไม่มีอะไรอยู่ ๆ ไปก่อน ตัวคนเดียว เมืองไทยก็ไม่ได้คิดจะกลับ อืม ... ขอบคุณที่ยังนึกถึงเรานะ ดีใจด้วยจริง ๆ แล้วก็ตอนนี้รู้แล้วล่ะ :)\
-`ขอบคุณ:` *เพลงกฏของคนแพ้ - LEGENDBOY ft. OZH & SK MTXF*
+`ขอบคุณ:` *เพลงกฏของคนแพ้ - LEGENDBOY ⚬ Acoustic Cover อีฟ x โอ๊ต*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </div>
 > Ok ไปก่อนล่ะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> Happy honeymoon to both of you guys!
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
