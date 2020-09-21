@@ -3,15 +3,15 @@ date: 2018-10-30 11:54:45 +0700
 layout: post
 title: "กามสุขของคืนนั้น"
 subtitle: "สำหรับความสัมพันธ์ การให้เกียรติซึ่งกันและกัน และนั่นอาจจะมีคำสารภาพของพวกเราอยู่ในนั้น"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: b3CKR28QkhQ?ecver=2
+hero_image: https://source.unsplash.com/LBP2Ne7m_JE
+youtube: esWFXUvd3HI
 category:
   - rock
 tags:
-  - อัสนี-วสันต์
+  - Scorpions
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Osman Rana](https://unsplash.com/@osmanrana) / Unsplash*
 
 "จับเจี๊ยวดูหน่อยว่าใหญ่มั๊ย?" เสียงเธอพูดขึ้นกลบความเงียบ ในระหว่างเดินพ้นประตูห้องเข้ามาเพื่อจะไปที่เตียง ส่วนมือก็จับหมับเข้าไปที่เป้ากางเกงของเขา แบบไม่ทันให้ตั้งตัว\
 "เฮ้ย!" เขาร้อง แต่ไม่ถึงกับตกใจ เพราะสัมผัสของมือเธอไม่ได้ตั้งใจจะทำอะไรมากไปกว่า สัมผัสเพื่อคลี่คลายความเขินเกร็งระหว่างกันเท่านั้น
@@ -40,7 +40,7 @@ author: thiagorossener
 "มาอาบด้วยกันมั๊ย?" เธอพูดตอนหันตัวกลับมาหาเขา พร้อมยกนิ้วก้อยและรอยยิ้มที่มีจริตส่งให้\
 "55 เดี๋ยวจะโดนนะ ... ไม่ล่ะ อาบไปเถอะ จะดู" เขาวางมือถือและหันมาอยู่กับเธออีกครั้ง
 "จะดูอะไร!? นมก็ไม่ใหญ่ ตูดก็ไม่เด้ง" เธอพูดก่อนเปิดน้ำก๊อกซ้าย ก๊อกขวาสลับกันไป เขาเงียบไม่ว่าอะไร ยักคิ้วและส่งยิ้มให้ ก่อนจะเบือนหน้าหันไปคล้ายให้เกียรติในความเป็นส่วนตัวของเธอ\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง Lady Starlight - Scorpions*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
