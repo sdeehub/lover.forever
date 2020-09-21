@@ -31,5 +31,3 @@ author: thiagorossener
 </iframe>
 </div>
 > Ok ไปก่อนล่ะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> Happy honeymoon to both of you guys!
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
