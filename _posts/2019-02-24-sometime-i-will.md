@@ -4,11 +4,11 @@ layout: post
 title: "หน้าร้อนกลับมาอีกแล้วนะ ว่ามั๊ย?"
 subtitle: "ในความว่างมีสีขาว ในความเปล่าเต็มไปด้วยความเงียบ ในลมหายใจเต็มไปด้วยความคิด ในสติล้วนเต็มไปด้วยการรับรู้ ในการดูเต็มไปด้วยสิ่งที่ไม่เห็น ในสิ่งทั้งมวลที่หยุดนิ่งกลับไม่มีอยู่จริง ในความว่างเปล่ากลับมีดวงดาวและจักรวาลอยู่นับไม่ถ้วน"
 hero_image: https://source.unsplash.com/t4dwuuMH5MU
-youtube: 968nkXHzTIY
+youtube: TVzKSTNSeLM
 category:
-  - rock
+  - jazz
 tags:
-  - อัสนี-วสันต์
+  - Warren Hill
 author: thiagorossener
 ---
 `ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
@@ -22,7 +22,7 @@ author: thiagorossener
 > หน้าไหน ๆ ก็ร้อน หลายคนบอกไว้แบบนั้น ~ Mr. Unknown
 
 แต่แล้วก็มีเจ้าหัวใจที่เริ่มจะสั่งให้เจ้าสมองลองคิดอะไรไปแปลก ๆ อย่างเช่น แล้วเขาจะหลบอยู่ที่ไหนในตอนฝนตก? เพราะที่นั่นอาจจะแดดเปรี้ยง หรือหิมะอาจจะลงหนา เอาว่าสักครึ่งขาจะดีมั๊ย เธอเลยกลับสงสัยว่าเค้าคงน่าจะนอนยังไม่ตื่น จะน่าแปลกตรงไหน ก็โลกเราใบออกใหญ่ได้ซะขนาดนี้ ใจใกล้แต่ตัวคนเราอยู่ห่างกันทีตั้งเกือบ 13-14 ชม. • แล้วตกลงมันจะแปลกมั๊ยนี่? ตรงที่เราก็ยังไม่เคยได้เจอกัน แต่ฉันกลับรู้ว่ารู้จักและคุ้นเคยกับเธอดี ว่าแล้วไง นั่นสิ! กลิ่นฝนตรงนี้ทำไมถึงคล้ายกับกลิ่น after shave ของเขาจัง\
-`ขอบคุณ:` *เพลงเดือนเพ็ญ - อัสนี-วสันต์ (คิดถึงบ้าน - อัศนี พลจันทร)*
+`ขอบคุณ:` *เพลง It's Always Been You - Warren Hill*
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
 <iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
