@@ -3,7 +3,7 @@ date: 2019-02-24 16:33:24 +0700
 layout: post
 title: "หน้าร้อนกลับมาอีกแล้วนะ ว่ามั๊ย?"
 subtitle: "ในความว่างมีสีขาว ในความเปล่าเต็มไปด้วยความเงียบ ในลมหายใจเต็มไปด้วยความคิด ในสติล้วนเต็มไปด้วยการรับรู้ ในการดูเต็มไปด้วยสิ่งที่ไม่เห็น ในสิ่งทั้งมวลที่หยุดนิ่งกลับไม่มีอยู่จริง ในความว่างเปล่ากลับมีดวงดาวและจักรวาลอยู่นับไม่ถ้วน"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/TZ1h8WcBrCY
 youtube: TVzKSTNSeLM
 category:
   - jazz
@@ -11,7 +11,7 @@ tags:
   - Warren Hill
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Nicole Y-C](https://unsplash.com/@themcny) / Unsplash*
 
 หน้าฝนแล้วฝนตกก็ไม่ใช่เรื่องแปลก ฝนตกแล้วรถติด คิดแล้วปวดหัวก็ไม่แปลก ฝนตกแล้วเราหายไป จะไปหลบฝนอยู่ที่ไหน? ก็ไม่แปลกและก็จะไม่ยอมบอกว่าไปหลบอยู่ที่ไหน ใครจะทำไมก็ทำดิ! แล้วใครจะทำไม?
 
