@@ -11,7 +11,7 @@ tags:
   - Charlie Puth
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Michelle Francisca Lee](https://unsplash.com/@michellefranclee) / Unsplash*
+`ขอบคุณ:` *[Michelle Francisca Lee](https://unsplash.com/@michellefranclee) - Unsplash / Charlie Puth ft. Boyz II Men - If You Leave Me Now*
 
 ได้โปรดโอบกอดฉันไว้ให้เนิ่นนาน กอดของเธอได้ปลดปล่อยฉันไป ปลดปล่อยฉันไปตลอดกาล สัมผัสจากเธอจะล้ออยู่ในสายลม กลิ่นเนื้อเธอจะยังอบอวลในมวลอากาศ อุ่นไอของเธอโปรยปรายไปได้ทั่ว รอยยิ้มละมุนละไมชื่นใจดั่งสายน้ำ เสียงกระซิบทำซาบซ่านไปทั้งตัวเราและตัวใจ คล้ายฉันจะอิ่มเอมและหลับใหลไปได้ตลอดกาล
 
@@ -25,11 +25,5 @@ author: thiagorossener
 
 > Meditate ... Do not delay, lest you later regret it. ~ Buddha
 
-ฟัง ฉันฟังจากข้างใน กายของเธอ ใจของเธอ ลมของเธอ ลมหายใจของเธอดัง เข้าและออก พองและยุบ ตุ๊บ ตุ๊บ ๆ เสียงหัวใจของเธอดัง เร็วบ้าง ช้าบ้าง เงียบบ้าง ดังบ้าง แต่นั่นก็เพราะว่าทุกสิ่งต้องเป็นไป หาใช่ที่ ที่เธอและฉันต้องยึดติดจับไว้ให้มั่น สักนิดเดียวเลย\
-`ขอบคุณ:` *เพลง If You Leave Me Now - Charlie Puth ft. Boyz II Men*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+ฟัง ฉันฟังจากข้างใน กายของเธอ ใจของเธอ ลมของเธอ ลมหายใจของเธอดัง เข้าและออก พองและยุบ ตุ๊บ ตุ๊บ ๆ เสียงหัวใจของเธอดัง เร็วบ้าง ช้าบ้าง เงียบบ้าง ดังบ้าง แต่นั่นก็เพราะว่าทุกสิ่งต้องเป็นไป หาใช่ที่ ที่เธอและฉันต้องยึดติดจับไว้ให้มั่น สักนิดเดียวเลย
 > ได้โปรด <svg class="love"><use xlink:href="#icon-heart"></use></svg> ภาวนา สาธุ
