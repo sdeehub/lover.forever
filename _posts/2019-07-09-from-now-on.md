@@ -11,7 +11,7 @@ tags:
   - Patrick Swayze
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Dario Valenzuela](https://unsplash.com/@darvalife) / Unsplash*
+`ขอบคุณ:` *[Dario Valenzuela](https://unsplash.com/@darvalife) - Unsplash / Patrick Swayze ft. Wendy Fraser - She's like the wind*
 
 อืม ... เมื่อคืนนี้ฝันถึงกัน - อืม ... เมื่อวานนี้นั่งร้องไห้
 
@@ -23,11 +23,5 @@ author: thiagorossener
 
 แม่บอกคุณเดินเล่นในสวนอยู่นาน อยากรู้ว่าต้นไม้จะคิดถึงคุณมั๊ย? แล้วใครจะเอาถั่วมาเลี้ยงกระรอกเหรอ? บางครั้งสมาชิกใหม่ก็มาพร้อมกับความทรงจำอะไร ๆ เยอะมากมาย - ยังจำได้ตอนที่เราเจอกันครั้งแรกนะ
 
-แต่ตอนนี้แค่อยากรู้ว่าแล้วเมื่อไหร่เราจะได้เจอกันอีก ... ก็แค่นั้น\
-`ขอบคุณ:` *เพลง She's like the wind - Patrick Swayze ft. Wendy Fraser*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+แต่ตอนนี้แค่อยากรู้ว่าแล้วเมื่อไหร่เราจะได้เจอกันอีก ... ก็แค่นั้น
 > คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> คิดถึงมากจริง ๆ
