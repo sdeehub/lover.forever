@@ -3,7 +3,7 @@ date: 2019-03-05 15:38:38 +0700
 layout: post
 title: "ใครคือคน ๆ นั้น"
 subtitle: "ถึงยุคสมัยจะเปลี่ยนไป แต่ความรักที่ต้องเลือก ก็ยังเกิดขึ้นได้ ไม่เคยเปลี่ยนแปลง"
-hero_image: https://source.unsplash.com/t4dwuuMH5MU
+hero_image: https://source.unsplash.com/GabP_Xh9SAk
 youtube: _z-I8OpCnv4
 category:
   - pop rock
@@ -11,7 +11,7 @@ tags:
   - Glenn Frey
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) - Unsplash / Glenn Frey - The One You Love*
+`ขอบคุณ:` *[Alexandr Bormotin](https://unsplash.com/@bormot) - Unsplash / Glenn Frey - The One You Love*
 
 • โบราณท่านกล่าวไว้ นานมา\
 จะรักใครพิจารณา ถ่องแท้\
