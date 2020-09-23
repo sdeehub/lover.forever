@@ -11,7 +11,7 @@ tags:
   - โก้ Mr. Saxman
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Lon Christensen](https://unsplash.com/@lonwake) / Unsplash*
+`ขอบคุณ:` *[Lon Christensen](https://unsplash.com/@lonwake) - Unsplash / โก้ Mr. Saxman - ภาวนา*
 
 อืม ... คืนนี้ล่ะ? คิดถึงกันบ้างมั๊ย
 
@@ -25,11 +25,5 @@ author: thiagorossener
 
 คิดถึงนะ ... แล้วก็จะลองดูด้วยว่า ถ้า google "ตอนนี้ โก้ อยู่ที่ไหน แล้วยังคิดถึงกันมั๊ย" แล้วคำตอบจะออกมาเป็นยังไง?
 
-อีกอย่าง ... ที่ นี่หมดฝนแล้ว จำได้มั๊ย!\
-`ขอบคุณ:` *เพลงภาวนา - โก้ Mr. Saxman*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+อีกอย่าง ... ที่ นี่หมดฝนแล้ว จำได้มั๊ย!
 > คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> (คิดถึงมากจริง ๆ) แล้วก็ยิ่งมากขึ้นทุก ๆ วัน

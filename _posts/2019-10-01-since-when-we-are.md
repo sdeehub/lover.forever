@@ -11,7 +11,7 @@ tags:
   - หรั่ง ร็อคเคสตร้า
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Hannah Wei](https://unsplash.com/@herlifeinpixels) / Unsplash*
+`ขอบคุณ:` *[Hannah Wei](https://unsplash.com/@herlifeinpixels) - Unsplash / หรั่ง ร็อคเคสตร้า - คิดถึง*
 
 ประโยคอะไร? หรือว่านี่คือประโยคบอกว่า คิดถึง ... แต่น่าจะเพราะช่วงนี้ หลายวัน หลายเดือน หลายปี นานมานี้วุ่นมาก ยุ่งมาก
 
@@ -23,11 +23,5 @@ author: thiagorossener
 
 ทุกวัน ทุกคน ทุกที่ ทุกเวลา ... 8 ถึง 5 มีแต่ต้องหาคำตอบ มีแต่ต้องรับผิดชอบ มีแต่หน้าจอเล็ก หน้าจอใหญ่ หน้าจอดู code หน้าจอแก้ bug ไป หน้าจอย้ายการ์ด / push branch / pull request หน้าจอ Trello กับ Stack Overflow ซะเป็นส่วนใหญ่
 
-นานมาแล้ว เหมือนกับ กาลครั้งหนึ่ง คือ เราก็ไม่รู้ว่านั่นคือ นานมาแล้วแค่ไหน รู้แค่ว่า "คิดถึง" ตอนนี้ได้จางหายไป อย่างที่บอกไว้ ... หาย แล้วก็หายกัน\
-`ขอบคุณ:` *เพลงคิดถึง - หรั่ง ร็อคเคสตร้า*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+นานมาแล้ว เหมือนกับ กาลครั้งหนึ่ง คือ เราก็ไม่รู้ว่านั่นคือ นานมาแล้วแค่ไหน รู้แค่ว่า "คิดถึง" ตอนนี้ได้จางหายไป อย่างที่บอกไว้ ... หาย แล้วก็หายกัน
 > กาลครั้งหนึ่ง <svg class="love"><use xlink:href="#icon-heart"></use></svg> (คิดถึงมากจริง ๆ) นานมาแล้ว

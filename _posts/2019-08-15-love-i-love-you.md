@@ -11,7 +11,7 @@ tags:
   - G.NA
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Debby Hudson](https://unsplash.com/@hudsoncrafted) / Unsplash*
+`ขอบคุณ:` *[Debby Hudson](https://unsplash.com/@hudsoncrafted) - Unsplash / G.NA - 벌써 보고 싶어 (I already miss you)*
 
 อืม ... คืนนี้ล่ะ? คิดถึงกันบ้างมั๊ย
 
@@ -19,11 +19,5 @@ author: thiagorossener
 
 อืม ... ตอนนี้ล่ะ? หลับไปแล้วหรือยังไง
 
-จะตีสามแล้ว ตอนนี้ยังนั่งทำอะไรอยู่มั๊ย? แล้วถ้าหลับจะฝันดีแค่ไหน หรือว่า เอ่อ เธอยังนั่งคิดถึงใคร อยากรู้ว่าใครจะคิดถึงใครมากกว่าใคร หรือว่าแล้วคนในฝันคนนั้นคือใคร? ทำไมถึงได้อยากรู้ ๆ อะไรมากมาย? ... แต่ นอกจากอยากรู้ แล้วยังอยากบอกอะไรให้ คิดว่าช่วยฟังหน่อยนะ เธอ คนดี\
-`ขอบคุณ:` *เพลง 벌써 보고 싶어 (I already miss you) - G.NA*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+จะตีสามแล้ว ตอนนี้ยังนั่งทำอะไรอยู่มั๊ย? แล้วถ้าหลับจะฝันดีแค่ไหน หรือว่า เอ่อ เธอยังนั่งคิดถึงใคร อยากรู้ว่าใครจะคิดถึงใครมากกว่าใคร หรือว่าแล้วคนในฝันคนนั้นคือใคร? ทำไมถึงได้อยากรู้ ๆ อะไรมากมาย? ... แต่ นอกจากอยากรู้ แล้วยังอยากบอกอะไรให้ คิดว่าช่วยฟังหน่อยนะ เธอ คนดี
 > คิดถึงนะ <svg class="love"><use xlink:href="#icon-heart"></use></svg> คิดถึงมากจริง ๆ
