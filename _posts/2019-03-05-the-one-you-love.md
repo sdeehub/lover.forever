@@ -11,7 +11,7 @@ tags:
   - Glenn Frey
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) / Unsplash*
+`ขอบคุณ:` *[Daniel Bernard](https://unsplash.com/@nardly) - Unsplash / Glenn Frey - The One You Love*
 
 • โบราณท่านกล่าวไว้ นานมา\
 จะรักใครพิจารณา ถ่องแท้\
@@ -36,11 +36,5 @@ author: thiagorossener
 • หมายรักคนรักแท้ แต่ตน\
 จะต้องไม่ทุกข์ทน โศกเศร้า\
 ทุกวันหมั่นเปรอปรน รักเพื่อ เรานา\
-เขารักมักคอยเฝ้า ค่ำเช้าเอาใจ\
-`ขอบคุณ:` *เพลง The One You Love - Glenn Frey*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+เขารักมักคอยเฝ้า ค่ำเช้าเอาใจ
 > ร่มเงาต้นไม้นั้น สำหรับคนที่เดินผ่านไป-มา <svg class="love"><use xlink:href="#icon-heart"></use></svg> แต่ผลไม้นั้น สำหรับคนที่คอยเฝ้ามันไว้เท่านั้น

@@ -11,7 +11,7 @@ tags:
   - ศรัณย่า ส่งเสริมสวัสดิ์
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Tomas Anton Escobar](https://unsplash.com/@tomasjolmes) / Unsplash*
+`ขอบคุณ:` *[Tomas Anton Escobar](https://unsplash.com/@tomasjolmes) - Unsplash / ศรัณย่า ส่งเสริมสวัสดิ์ - อยู่นาน ๆ ได้ไหม*
 
 อยู่ต่อก่อนมั๊ย? - คำถามง่าย ๆ แต่กว่าจะได้คำตอบ ... ทำไมช่างยากเหลือเกิน คงเพราะที่นี่ไม่ได้มีอะไรมาก นอกจากชาอุ่น ๆ  กับ ขนมปังกรอบ A B C แล้วก็ขนมปังกรอบไส้สัปปะรด บางทีอาจจะเป็นเพราะ A B C ต้องมีถึงตัว Z
 
@@ -23,11 +23,5 @@ author: thiagorossener
 
 ว่าแล้วเธอก็เดินไป เปิดแผ่นเพลง ฝัน ... ฝันหวาน ของ ผุสชา โทณะวณิก - ตอนนี้ในห้องนี้มีเสียงเพลง ที่มีเสียงหวาน ๆ มีรอยยิ้ม ที่เป็นอมยิ้มตรงริมปาก มีชาอุ่น ๆ ที่ทำให้มีบรรยากาศหรืออะไร อันนี้ก็แล้วแต่ใครจะคิดกันไป
 
-แล้ว ... สักพักเธอก็พูดเบา ๆ ขึ้นมา เหมือนว่าจะเป็นตอนจบที่คล้าย ๆ กัน\
-`ขอบคุณ:` *เพลงอยู่นาน ๆ ได้ไหม - ศรัณย่า ส่งเสริมสวัสดิ์*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+แล้ว ... สักพักเธอก็พูดเบา ๆ ขึ้นมา เหมือนว่าจะเป็นตอนจบที่คล้าย ๆ กัน
 > Baby, you are gonna miss that train. <svg class="love"><use xlink:href="#icon-heart"></use></svg> I know.

@@ -11,7 +11,7 @@ tags:
   - Men I Trust
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Ava Sol](https://unsplash.com/@avasol) / Unsplash*
+`ขอบคุณ:` *[Ava Sol](https://unsplash.com/@avasol) - Unsplash / Men I Trust - I hope to be around*
 
 คุณจะกลับมาเพื่อ? ถ้าการกลับมานี้หมายความว่า สักวัน ... ไม่อยากพูดคำนั้น ว่าแล้วสักวันคุณก็จะกลับไป สักวันคุณก็จะหายไป สักวันเราก็จะผ่านเรื่องนี้ไป ต่างกันแค่เพียงคุณอาจจะไม่ได้ get emotional about it?
 
@@ -23,11 +23,5 @@ author: thiagorossener
 
 >If you love someone, set them free. If they come back they’re yours; if they don’t they never were.
 
-ใช่ ... ก็แค่ถ้าเผื่อ เผื่อว่าถ้ามีบางอย่างเข้ามาและผ่านเราไป แล้วใครสักคนก็อาจจะอ่อนไหว หรือใครสักคนอยากจะปล่อยมือกันไป แล้วใครอีกคน หรือบางทีในความสับสน ความสับสนที่เป็นเพื่อนของเราทั้ง 2 คน นะ! ว่ามั๊ย?\
-`ขอบคุณ:` *เพลง I hope to be around- Men I Trust*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+ใช่ ... ก็แค่ถ้าเผื่อ เผื่อว่าถ้ามีบางอย่างเข้ามาและผ่านเราไป แล้วใครสักคนก็อาจจะอ่อนไหว หรือใครสักคนอยากจะปล่อยมือกันไป แล้วใครอีกคน หรือบางทีในความสับสน ความสับสนที่เป็นเพื่อนของเราทั้ง 2 คน นะ! ว่ามั๊ย?
 > รอก่อนเผื่อว่าอะไรจะแน่นอน <svg class="love"><use xlink:href="#icon-heart"></use></svg> รอก่อนแต่ก็เชื่อใจและยังเชื่อในความหมายที่เป็นของเรา 2 คน นะ! ว่ามั๊ย?
