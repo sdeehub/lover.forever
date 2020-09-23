@@ -11,7 +11,7 @@ tags:
   - Gipsy Kings
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Angèle Kamp](https://unsplash.com/@angelekamp) / Unsplash*
+`ขอบคุณ:` *[Angèle Kamp](https://unsplash.com/@angelekamp) - Unsplash / Gipsy Kings - Love And Liberte*
 
 สวัสดี
 
@@ -19,11 +19,5 @@ author: thiagorossener
 
 คิดถึงคุณนะ ดูแลตัวเองด้วย
 
-บ๊ายบาย\
-`ขอบคุณ:` *เพลง Love And Liberte - Gipsy Kings*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+บ๊ายบาย
 > ปล. พรุ่งนี้มาฆบูชา <svg class="love"><use xlink:href="#icon-heart"></use></svg> ธรรมรักษานะ
