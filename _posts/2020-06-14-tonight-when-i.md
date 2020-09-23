@@ -11,7 +11,7 @@ tags:
   - The Bootleg Boy
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Alexandre Debiève](https://unsplash.com/@alexkixa) / Unsplash*
+`ขอบคุณ:` *[Alexandre Debiève](https://unsplash.com/@alexkixa) - Unsplash / The Bootlet Boy - I Think About You When It Rains*
 
 คืนนี้ฝนทำท่าจะตกนะ ถ้าฝนตกคงจะคิดถึงมากกว่านี้ ก็ไม่รู้สิ ไม่รู้ว่าเพราะอะไร แต่ก็อยากให้ฝนตก จะได้เย็นหน่อย หรือบางทีเสียงฝนก็ได้ช่วยให้ไม่ต้องเงียบแบบนี้ บางทีก็ไม่อยากคิด แต่หยุดไม่ได้ บางทีก็อยากหลับไปกับเสียงฝน บางทีก็อยากแค่ให้ใครสักคนโทรหา โทรมาถามว่าฝนตกมั๊ย โทรมาเล่าว่าที่นั่นน้ำท่วมก็ได้ ... อยากฟัง
 
@@ -25,11 +25,5 @@ author: thiagorossener
 
 ถ้าอยู่ข้างนอก เวลาฝนตกจะเปียกแค่ไหน บางทีก็อยากหาที่หลบฝนด้วยกัน ว่ามั๊ย ขับรถลุยฝนก็ได้ ไม่ต้องไปไกล แค่วนรอบหอนาฬิกา วนไปเรื่อย ๆ ก็ได้
 
-ถ้าฝนตก จะโทรมาหน่อยได้มั๊ย? ก็แค่อยากคิดถึงแบบนี้ เวลาที่ฝนตกมาน่ะ ไม่มีอะไร\
-`ขอบคุณ:` *เพลงชุด I Think About You When It Rains - The Bootlet Boy*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+ถ้าฝนตก จะโทรมาหน่อยได้มั๊ย? ก็แค่อยากคิดถึงแบบนี้ เวลาที่ฝนตกมาน่ะ ไม่มีอะไร
 > ก็แค่จะได้คิดถึงแบบนี้ <svg class="love"><use xlink:href="#icon-heart"></use></svg> ทุกครั้งที่ฝนมา

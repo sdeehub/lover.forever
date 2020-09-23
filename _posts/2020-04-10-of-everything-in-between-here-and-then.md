@@ -11,7 +11,7 @@ tags:
   - Studio Ghibli
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Kenny Luo](https://unsplash.com/@kennyluoping) / Unsplash*
+`ขอบคุณ:` *[Kenny Luo](https://unsplash.com/@kennyluoping) - Unsplash / Studio Ghibli - Summer Night Piano Collection*
 
 เก็บตัว เก็บหัวใจ ไม่ได้เก็บไว้รอคอยใคร ... ก็แค่เก็บ\
 เก็บดอกไม้ เก็บกระดาษ เก็บวัน-เวลา ไม่ได้จะเก็บไว้ทำอะไร ... ก็แค่เก็บ
@@ -49,11 +49,5 @@ author: thiagorossener
 เงียบ สงบ เยือกเย็น และ\
 หายใจ ...
 
-หยุด ... แล้วก็ หายไป ... ไม่ใช่ไม่เก็บ\
-`ขอบคุณ:` *เพลงชุด Summer Night Piano Collection - Studio Ghibli*
-
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="{{ "https://www.youtube.com/embed/" | append: page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+หยุด ... แล้วก็ หายไป ... ไม่ใช่ไม่เก็บ
 > ปล่อย ... ให้คนที่เก็บ <svg class="love"><use xlink:href="#icon-heart"></use></svg> เก็บไว้คนเดียว
