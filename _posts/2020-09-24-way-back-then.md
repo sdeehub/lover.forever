@@ -1,0 +1,40 @@
+---
+date: 2020-08-31 22:52:21
+layout: post
+title: "เก่า"
+subtitle: "รูปเก่า เรื่องเก่า เรื่องเล่า นานมาก นมนาน ... คิดถึง"
+hero_image: https://source.unsplash.com/XPKjZ0VIgu8
+image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
+youtube: 0rLhJZTHYo4
+category: dance
+tags:
+  - Kenny Loggins
+author: thiagorossener
+---
+`ขอบคุณ:` *[The New York Public Library](https://unsplash.com/@nypl) - Unsplash / Kenny Loggins (Dancing In The Movies) - Footloose*
+
+นานแค่ไหนถึงเรียกว่า 'นาน'\
+ผ่านมาแค่ไหนถึงเรียกว่า 'เก่า'\
+อยู่คนเดียวแบบไหนที่เรียกว่า 'เหงา'\
+ผ่านไปนานแค่ไหนถึงจะเรียกว่า 'คิดถึง'
+
+ไม่ใช่คิดแล้วไม่ถึง แต่คิดแล้วได้แต่นั่งซึ้ง คิดแล้วก็ได้แต่นั่งซึม ... รูปเก่า คนในรูปตอนนั้นก็เก่า นานแค่ไหนแล้ว ที่ได้แต่เก็บเอาไว้ ไม่กล้าที่จะหยิบมาดูให้หายคิดถึง?
+
+คิดถึงยังไม่ถึงเวลาที่จะได้หายไป แต่รูปกับคนไหนรูป ... หายและจาง\
+ส่วนความทรงจำ ... ลึกและกลับชัด
+
+แปลกดีมั๊ย อาจจะเพราะแบบนี้เรื่องอะไรใหม่คนสูงอายุถึงได้จำไม่ค่อยได้ แต่ความทรงจำเก่า ๆ กลับชัดขึ้นมาเรื่อย ๆ อาจจะเพราะเรื่องราวบางอย่างต้องการให้เราอภัย อาจจะเพราะใครบางคนต้องการให้เราปล่อยเขาไป หรืออาจจะเพราะวันเวลากำลังจะปล่อยเราไป
+
+นานแค่ไหนถึงเรียกว่า 'นาน'\
+ร่องรอย เหี่ยวย่น หยาบกร้าน อ่อนแรง โรยลา ... อะไรนะ? พูดใหม่ ดัง ๆ ชัด ๆ ใกล้ ๆ\
+ต้องดังแค่ไหนถึงจะให้ 'ชัด'\
+มือสั่น ใจหวิว ลมหายใจ ค่อย ๆ หมดไป เหมือนวัน-เวลา
+
+รอยยิ้ม ... แปลกที่ยังอบอุ่นและยิ่งอ่อนโยนมากขึ้น\
+แววตา ... เหนื่อยล้าแต่กลับเต็มเปี่ยมไปด้วยอภัยและเมตตา\
+นานแค่ไหนถึงเรียกว่า 'นาน'\
+จากกันยังไงถึงเรียกว่า 'ตลอดกาล'
+> คิดถึงเสมอ <svg class="love"><use xlink:href="#icon-heart"></use></svg> ที่รักเอ๋ย
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
