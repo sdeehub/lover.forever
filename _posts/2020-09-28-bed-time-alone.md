@@ -4,15 +4,13 @@ layout: post
 title: "ง่วง?"
 subtitle: "วันไหนที่อยากนอน จะไม่ค่อยนอน วันไหนที่ต้องนอนเร็ว ก็จะไม่ค่อยได้นอน"
 hero_image: https://source.unsplash.com/ls6gX4_Mjv0
-image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
-optimized_image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
-youtube: cns8Uy7OGjs
+youtube: sS99NE4tmPQ
 category: r & b
 tags:
-  - PREC%NT
+  -  Bubbly Summer (バブリーサマー)
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Linh Nguyen](https://unsplash.com/@linhnguyen) - Unsplash / OoOo (오넷) - Closer (feat. hihat83) [prod. 정건호]*
+`ขอบคุณ:` *[Linh Nguyen](https://unsplash.com/@linhnguyen) - Unsplash / ラブリーサマーちゃん「202 feat. 泉まくら」Music Video*
 
 วันไหนง่วงก็ไม่ค่อยได้นอน\
 วันไหนไม่ง่วงก็ยิ่งจะไม่นอน
@@ -32,3 +30,5 @@ author: thiagorossener
 ไม่ใช่ไม่นอนแล้วจะไม่ง่วง\
 ไม่ใช่ไม่นอนแล้วจะไม่คิดถึง
 > ดึกแล้ว จะนอนตอนไหน ก็ไม่รู้ <svg class="love"><use xlink:href="#icon-heart"></use></svg> ดึกแล้ว รู้แค่ว่า คิดถึงจัง
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
