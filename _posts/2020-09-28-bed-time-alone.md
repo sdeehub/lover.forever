@@ -30,5 +30,3 @@ author: thiagorossener
 ไม่ใช่ไม่นอนแล้วจะไม่ง่วง\
 ไม่ใช่ไม่นอนแล้วจะไม่คิดถึง
 > ดึกแล้ว จะนอนตอนไหน ก็ไม่รู้ <svg class="love"><use xlink:href="#icon-heart"></use></svg> ดึกแล้ว รู้แค่ว่า คิดถึงจัง
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
