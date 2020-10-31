@@ -1,18 +1,18 @@
 ---
 date: 2020-09-26 22:52:21
 layout: post
-title: "เก่า"
+title: "เก่า (มั๊ย?)"
 subtitle: "รูปเก่า เรื่องเก่า เรื่องเล่า นานมาก นมนาน ... คิดถึง"
-hero_image: https://source.unsplash.com/XPKjZ0VIgu8
+hero_image: https://source.unsplash.com/kqJfP-lrl-8
 image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
-youtube: 0rLhJZTHYo4
+youtube: KLSMsfz_keI
 category: dance
 tags:
-  - Kenny Loggins
+  - Olivia Newton-John
 author: thiagorossener
 ---
-`ขอบคุณ:` *[The New York Public Library](https://unsplash.com/@nypl) - Unsplash / Kenny Loggins (Dancing In The Movies) - Footloose*
+`ขอบคุณ:` *[Evie S.](https://unsplash.com/@evieshaffer) - Unsplash / Olivia Newton-John - Physical*
 
 ถ้าวันนึง ... แค่จะหายใจให้เต็มปอดก็ยังไม่สามารถทำได้
 ถ้าวันนึง ... โอบกอดกันทำได้แค่คิดในใจ
