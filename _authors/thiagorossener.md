@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: thiagorossener
-display_name: pls. love with me forever
+display_name: Pls. love with me forever
 position: Chief of Love
 bio: Just a Lover.Forever
 github_username: thiagorossener
