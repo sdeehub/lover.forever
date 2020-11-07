@@ -2,7 +2,7 @@
 layout: author
 photo: ./../assets/img/uploads/profile.png
 name: thiagorossener
-display_name: Pls. love with me forever
+display_name: Love me, forever?
 short_name: Love me, forever?
 position: Chief of Love
 bio: Just a Lover.Forever
