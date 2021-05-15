@@ -4,8 +4,8 @@ layout: post
 title: "เก่า"
 subtitle: "รูปเก่า เรื่องเก่า เรื่องเล่า นานมาก นมนาน ... คิดถึง"
 hero_image: https://source.unsplash.com/XPKjZ0VIgu8
-image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
-optimized_image: https://img.youtube.com/vi/FCNZgNNR3Ao/maxresdefault.jpg
+image: https://img.youtube.com/vi/FCNZgNNR3Ao/hqdefault.jpg
+optimized_image: https://img.youtube.com/vi/FCNZgNNR3Ao/hqdefault.jpg
 youtube: 0rLhJZTHYo4
 category: dance
 tags:
