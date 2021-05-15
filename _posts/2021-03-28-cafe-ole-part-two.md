@@ -3,14 +3,14 @@ date: 2021-03-28 T21:15:05+07:00
 layout: post
 title: "ครั้งนี้ (แบบนี้อีกแล้ว)"
 subtitle: "กาแฟ วันว่าง ข้างทาง ดอกไม้ ใบหญ้า และเรา 2 คน ท่ามกลางผู้คนและอื่น ๆ"
-hero_image: https://source.unsplash.com/qu8Xjs5cZ4c
+hero_image: https://source.unsplash.com/Pod30xdRkUg
 youtube: GIZvZlks_AE
 category: Pop
 tags:
   - Jeff Bernat
 author: thiagorossener
 ---
-`ขอบคุณ:` *[rigel](https://unsplash.com/@rigels) - Unsplash / Jeff Bernat - Girl At The Coffee Shop*
+`ขอบคุณ:` *[Sean Benesh](https://unsplash.com/@seanbenesh) - Unsplash / Jeff Bernat - Girl At The Coffee Shop*
 
 กาแฟ หนังสือ วันเสาร์ - เรา 2 คน ... การเดินทางและเรื่องราวต่าง ๆ กับความเงียบในมุมหนึ่ง อันที่จริงความเงียบที่ว่ามาจากเสียง beat lo-fi ง่าย ๆ กับหูฟัง noise cancelling
 
@@ -22,4 +22,12 @@ author: thiagorossener
 
 ส่งยิ้มมาให้ อาจจะแค่ยิ้มอย่างไม่ได้ตั้งใจ อาจจะแค่ยิ้มให้เป็นมารยาท หรืออาจจะแค่อะไร ๆ ก็ได้มั๊ย *เราคิด*
 
-> รอยยิ้ม <svg class="love"><use xlink:href="#icon-heart"></use></svg> แค่นั้น
+ชื่อ อายุ ภาษา ที่มา ที่ไป เบอร์บ้าน เบอร์มือถือ โรงเรียนอนุบาล เพื่อนสมัยประถม วีรกรรมกับกลุ่มเพื่อนวัยรุ่น สัตว์เลี้ยง ... *คนรัก*
+
+แล้วทุกอย่างก็จบลง ทั้งที่ยังไม่ได้เริ่มขึ้น บางที ... ทุกอย่างก็มีช่วงเวลา บางทีทุกอย่างก็มีเหตุผล บางทีการทียังไม่ทำก็เพราะ ยังไม่ใช่ ยังไม่หายกลัว ยังไม่กล้า หรืออีกหลาย ๆ อย่าง ที่ยังไม่
+
+ตอนนี้เอาแค่ นาน ๆ เผลอหันมายิ้มให้ แล้วก็ beat ง่าย ๆ วันเสาร์สบาย ๆ ... ยิ้มสลับกันไป-มา
+
+รอยยิ้ม - แค่นั้น
+
+> รอยยิ้ม <svg class="love"><use xlink:href="#icon-heart"></use></svg> แค่นั้น จริง ๆ
