@@ -3,7 +3,7 @@ date: 2019-07-09 06:13:24 +0700
 layout: post
 title: "วันที่เท่าไหร่"
 subtitle: "เมื่อไหร่ วันไหน ที่ไหน ยังไง - จะตอบอะไรก็ได้ แค่ขอให้คุณกลับมา"
-hero_image: https://source.unsplash.com/fj0tFloTPGQ
+hero_image: https://source.unsplash.com/G4E6PcOt4Ps
 youtube: lU9p1WRfA9w
 category:
   - pop
@@ -11,7 +11,7 @@ tags:
   - Patrick Swayze
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Anton Sulsky](https://unsplash.com/@antonsulsky) - Unsplash / Patrick Swayze ft. Wendy Fraser - She's like the wind*
+`ขอบคุณ:` *[Dan Freeman](https://unsplash.com/@danfreemanphoto) - Unsplash / Patrick Swayze ft. Wendy Fraser - She's like the wind*
 
 อืม ... เมื่อคืนนี้ฝันถึงกัน - อืม ... เมื่อวานนี้นั่งร้องไห้
 
