@@ -3,7 +3,7 @@ date: 2020-04-10 T21:30:11+07:00
 layout: post
 title: "เก็บ"
 subtitle: "ใครบอกนะว่า อะไรที่ไม่ใช่ ก็ไม่ต้องเก็บ อะไรที่ไม่ใช้ ก็ไม่ต้องเอามา"
-hero_image: https://source.unsplash.com/cMC_s7e150o
+hero_image: https://source.unsplash.com/-Q6pIAKK_98
 youtube: 7voSN82FGF0
 category:
   - anime
@@ -11,7 +11,7 @@ tags:
   - Studio Ghibli
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Kenny Luo](https://unsplash.com/@kennyluoping) - Unsplash / Studio Ghibli - Summer Night Piano Collection*
+`ขอบคุณ:` *[Etienne Girardet](https://unsplash.com/@etiennegirardet) - Unsplash / Studio Ghibli - Summer Night Piano Collection*
 
 เก็บตัว เก็บหัวใจ ไม่ได้เก็บไว้รอคอยใคร ... ก็แค่เก็บ\
 เก็บดอกไม้ เก็บกระดาษ เก็บวัน-เวลา ไม่ได้จะเก็บไว้ทำอะไร ... ก็แค่เก็บ
