@@ -3,7 +3,7 @@ date: 2019-03-14 17:39:57 +0700
 layout: post
 title: "การกลับมา นั้น หมายความว่า?"
 subtitle: "บางครั้งความหมายก็ไม่ได้มีประโยชน์หรือเปล่านะ"
-hero_image: https://source.unsplash.com/L1bP5M6DhEo
+hero_image: https://source.unsplash.com/-BwtFJgaUho
 youtube: DviID8Ni7Ns
 category:
   - chill pop
@@ -11,7 +11,7 @@ tags:
   - Men I Trust
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Ava Sol](https://unsplash.com/@avasol) - Unsplash / Men I Trust - I hope to be around*
+`ขอบคุณ:` *[Kelly Sikkema](https://unsplash.com/@kellysikkema) - Unsplash / Men I Trust - I hope to be around*
 
 คุณจะกลับมาเพื่อ? ถ้าการกลับมานี้หมายความว่า สักวัน ... ไม่อยากพูดคำนั้น ว่าแล้วสักวันคุณก็จะกลับไป สักวันคุณก็จะหายไป สักวันเราก็จะผ่านเรื่องนี้ไป ต่างกันแค่เพียงคุณอาจจะไม่ได้ get emotional about it?
 
