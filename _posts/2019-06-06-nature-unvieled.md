@@ -3,7 +3,7 @@ date: 2019-06-06 09:50:39 +0700
 layout: post
 title: "วันที่คลี่คลาย"
 subtitle: "บางวันก็วุ่นวาย บางวันก็ว่างเปล่า บางวันก็คิดถึงกัน - หรืออย่างหลังนี่คือทุก ๆ วัน?"
-hero_image: https://source.unsplash.com/vVIwtmqsIuk
+hero_image: https://source.unsplash.com/f8U9Xqi1J5E
 youtube: VG3NjozUijc
 category:
   - beat
@@ -11,7 +11,7 @@ tags:
   - LAZYLOXY
 author: thiagorossener
 ---
-`ขอบคุณ:` *[Curtis MacNewton](https://unsplash.com/@curtismacnewton) - Unsplash / LAZYLOXY - Morning*
+`ขอบคุณ:` *[James Best](https://unsplash.com/@jim_at_jibba) - Unsplash / LAZYLOXY - Morning*
 
 บางทีความคิดก็เข้ามาเวียนวน วกวน กลับไป กลับมา ... คิดถึงใครบางคน คิดถึงวันเวลา คิดถึงหน้า คิดถึงแววตา คิดถึงรอยยิ้ม คิดถึงอะไร ๆ อีกหลาย ๆ อย่าง คิดถึงวนไป วนมา - เรื่องแบบนี้มีที่มา เพราะความรักคืออารมณ์ เพราะความคิดถึงคือความทรงจำ เพราะความผูกพันคือผลของสารเคมีในร่างกาย เพราะอะไร ๆ ก็มีที่มาที่ไป
 
