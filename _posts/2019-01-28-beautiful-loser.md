@@ -1,8 +1,8 @@
 ---
 date: 2019-01-28 21:30:44 +0700
 layout: post
-title: "ขอบใจนะ แต่เราไม่เป็นไรจริงๆ"
-subtitle: "ถ้าไม่ใช่ก็คงไปฝืนอะไรไม่ได้แล้วล่ะ ... จริง ๆ เราไม่เป็นไรจริงๆ"
+title: "ขอบใจนะ แต่เราไม่เป็นไรจริง ๆ"
+subtitle: "ถ้าไม่ใช่ก็คงไปฝืนอะไรไม่ได้แล้วล่ะ ... จริง ๆ เราไม่เป็นไรจริง ๆ"
 hero_image: https://source.unsplash.com/IC7HtVYesFs
 youtube: 9UXYWfLnCwY
 category:
