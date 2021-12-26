@@ -2,7 +2,7 @@
   {% for item in site.menu %}
     {% if item.title and item.url %}
       <li>
-        <a href="{{ item.url  | prepend: site.baseurl | prepend: site.url }}">{{ item.title }}</a>
+        <a href="{{ item.url  | prepend: site.baseurl }}">{{ item.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
