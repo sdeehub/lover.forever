@@ -32,4 +32,4 @@ author: thiagorossener
 
 เลื่อนลอย ซึมเศร้า แต่เราก็ไม่เคยได้รู้เลยว่าอีกด้านของเรื่องนี้จะเป็นยังไง คำตอบจะอยู่ที่นั่นมั๊ย? ... อยากรู้ก็ใช่ แต่บางที เพียงแค่นี้ก็อาจจะเพียงพอแล้ว สำหรับ *เรา* สองคน
 
-> <svg class="love"><use xlink:href="#icon-heart"></use></svg>
+> with love <svg class="love"><use xlink:href="#icon-heart"></use></svg> xoxo
